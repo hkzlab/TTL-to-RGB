@@ -416,8 +416,8 @@ L Connector_Generic:Conn_01x03 J3
 U 1 1 6011F4AF
 P 4750 950
 F 0 "J3" H 4830 992 50  0000 L CNN
-F 1 "CSync Selection" H 4830 901 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 4750 950 50  0001 C CNN
+F 1 "CSync Inv." H 4830 901 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4750 950 50  0001 C CNN
 F 3 "~" H 4750 950 50  0001 C CNN
 	1    4750 950 
 	1    0    0    -1  
@@ -563,7 +563,7 @@ L Regulator_Linear:L78L05_TO92 U4
 U 1 1 613C00D7
 P 5250 2650
 F 0 "U4" H 5250 2892 50  0000 C CNN
-F 1 "L78L05_TO92" H 5250 2801 50  0000 C CNN
+F 1 "L78L05" H 5250 2801 50  0000 C CNN
 F 2 "Package_TO_SOT_THT:TO-92_Inline" H 5250 2875 50  0001 C CIN
 F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/15/55/e5/aa/23/5b/43/fd/CD00000446.pdf/files/CD00000446.pdf/jcr:content/translations/en.CD00000446.pdf" H 5250 2600 50  0001 C CNN
 	1    5250 2650
@@ -928,7 +928,7 @@ U 1 1 6162BA85
 P 4750 1350
 F 0 "J2" H 4830 1392 50  0000 L CNN
 F 1 "Brown Fix" H 4830 1301 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 4750 1350 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4750 1350 50  0001 C CNN
 F 3 "~" H 4750 1350 50  0001 C CNN
 	1    4750 1350
 	1    0    0    -1  
@@ -959,7 +959,7 @@ U 1 1 6167A23D
 P 4750 1750
 F 0 "J1" H 4830 1792 50  0000 L CNN
 F 1 "EGA/CGA" H 4830 1701 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 4750 1750 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 4750 1750 50  0001 C CNN
 F 3 "~" H 4750 1750 50  0001 C CNN
 	1    4750 1750
 	1    0    0    -1  
@@ -1057,7 +1057,7 @@ U 1 1 6178B4DE
 P 6500 950
 F 0 "J4" H 6580 992 50  0000 L CNN
 F 1 "Sync Type" H 6580 901 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 6500 950 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6500 950 50  0001 C CNN
 F 3 "~" H 6500 950 50  0001 C CNN
 	1    6500 950 
 	1    0    0    -1  
