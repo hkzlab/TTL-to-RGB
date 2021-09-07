@@ -10,10 +10,14 @@ equations
 Oblue = blue
 Oblue.oe = VCC
 
+; Intensity for blue depends if we are
+; in CGA or EGA mode (CGA mode uses the green intensity for all colours)
 Oblue_I = /mode * blue_I + 
 	mode * green_I
 Oblue_I.oe = VCC
 
+; The brown fix is applied when R and G are high, B is low and the INTENSITY is low.
+; And only in CGA mode. The Green component gets lowered artificially (effectively swapped with the intensity)
 Ogreen = green * bfix + 
 	 green * /red + 
   	 green * blue + 
