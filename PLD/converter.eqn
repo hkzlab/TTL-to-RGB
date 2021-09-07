@@ -1,0 +1,41 @@
+; mode: 1-> CGA 0->EGA
+; bfix: 1-> no brown 0-> brown fix
+chip CONVERTER GAL16V8
+
+green_I=1 red_I=2 blue_I=3 red=4 hsync=5 green=6 vsync=7 blue=8 mode=9 GND=10 bfix=11 ncsync=12
+csync=13 Ored_I=14 Ored=15 Ogreen_I=16 Ogreen=17 Oblue_I=18 Oblue=19 VCC=20
+
+equations
+
+Oblue = blue
+Oblue.oe = VCC
+
+Oblue_I = /mode * blue_I + 
+	mode * green_I
+Oblue_I.oe = VCC
+
+Ogreen = green * bfix + 
+	 green * /red + 
+  	 green * blue + 
+         green * green_I + 
+	 green * /mode
+Ogreen.oe = VCC
+
+Ogreen_I = mode * /blue * green * red * /bfix + 
+	 green_I
+Ogreen_I.oe = VCC
+
+Ored = red
+Ored.oe = VCC
+
+Ored_I = /mode * red_I + 
+       mode * green_I
+Ored_I.oe = VCC
+
+csync = vsync * /hsync + 
+	/vsync * hsync
+csync.OE = VCC
+
+ncsync = /csync
+ncsync.OE = VCC
+
