@@ -16,19 +16,16 @@ Oblue_I = /mode * blue_I +
 	      mode * green_I
 Oblue_I.oe = VCC
 
-; The brown fix is applied when R and G are high, B is low and the INTENSITY is low.
+; The brown fix is applied in CGA mode, when R and G are high, B is low and the INTENSITY is low.
 ; The Green component gets lowered artificially (effectively swapped with the intensity).
-; In EGA mode we also check that the R and B intensity are low to trigger the fix
 Ogreen = green * /bfix +
          green * blue +
          green * /red +
          green * green_I +
-         green * red_I * /mode +
-         green * blue_I * /mode
+         green * /mode
 Ogreen.oe = VCC
 
 Ogreen_I = mode * /blue * green * red * bfix + 
-           /mode * /blue * green * red * /red_I * /blue_I * bfix +
 	       green_I
 Ogreen_I.oe = VCC
 
