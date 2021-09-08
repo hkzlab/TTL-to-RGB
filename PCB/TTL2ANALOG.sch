@@ -180,22 +180,6 @@ Wire Wire Line
 	8650 2250 9800 2250
 Wire Wire Line
 	9800 2250 9800 2050
-Wire Wire Line
-	9500 1150 9000 1150
-Wire Wire Line
-	9500 1250 9000 1250
-Wire Wire Line
-	9500 1350 9000 1350
-Wire Wire Line
-	9500 1450 9000 1450
-Wire Wire Line
-	9500 1550 9000 1550
-Wire Wire Line
-	9500 1650 9000 1650
-Wire Wire Line
-	9500 1750 9000 1750
-Wire Wire Line
-	9500 1850 9000 1850
 Text Label 9000 1250 0    50   ~ 0
 IN_R_I
 Text Label 9000 1450 0    50   ~ 0
@@ -1178,4 +1162,46 @@ F 3 "" H 7050 4950 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	7050 4900 7050 4950
+$Comp
+L Device:R_Network08 RN1
+U 1 1 613977B6
+P 8200 1450
+F 0 "RN1" V 8725 1450 50  0000 C CNN
+F 1 "10k" V 8634 1450 50  0000 C CNN
+F 2 "Resistor_THT:R_Array_SIP9" V 8675 1450 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/31509/csc.pdf" H 8200 1450 50  0001 C CNN
+	1    8200 1450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 613A4AC1
+P 7850 1950
+F 0 "#PWR?" H 7850 1700 50  0001 C CNN
+F 1 "GND" H 7855 1777 50  0000 C CNN
+F 2 "" H 7850 1950 50  0001 C CNN
+F 3 "" H 7850 1950 50  0001 C CNN
+	1    7850 1950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8000 1850 7850 1850
+Wire Wire Line
+	7850 1850 7850 1950
+Wire Wire Line
+	8400 1150 9500 1150
+Wire Wire Line
+	8400 1250 9500 1250
+Wire Wire Line
+	8400 1350 9500 1350
+Wire Wire Line
+	8400 1450 9500 1450
+Wire Wire Line
+	8400 1550 9500 1550
+Wire Wire Line
+	8400 1650 9500 1650
+Wire Wire Line
+	8400 1750 9500 1750
+Wire Wire Line
+	8400 1850 9500 1850
 $EndSCHEMATC
