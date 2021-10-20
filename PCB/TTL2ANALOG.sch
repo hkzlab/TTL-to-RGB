@@ -6,7 +6,7 @@ encoding utf-8
 Sheet 1 1
 Title "TTL2ANALOG"
 Date ""
-Rev "1.0"
+Rev "1.2"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -1014,7 +1014,6 @@ Wire Wire Line
 NoConn ~ 10050 3500
 NoConn ~ 10050 3700
 NoConn ~ 9450 4100
-NoConn ~ 10050 4300
 Text Label 10700 3900 2    50   ~ 0
 IN_HS_BUF
 $Comp
@@ -1259,4 +1258,32 @@ Wire Wire Line
 Connection ~ 1650 4500
 Wire Wire Line
 	1650 4500 1650 4700
+$Comp
+L Device:R_Small R13
+U 1 1 617012E7
+P 10350 4300
+F 0 "R13" V 10400 4400 50  0000 C CNN
+F 1 "10k" V 10400 4150 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 10350 4300 50  0001 C CNN
+F 3 "~" H 10350 4300 50  0001 C CNN
+	1    10350 4300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	10050 4300 10250 4300
+$Comp
+L power:VCC #PWR?
+U 1 1 6171E1AA
+P 10950 3950
+F 0 "#PWR?" H 10950 3800 50  0001 C CNN
+F 1 "VCC" H 10965 4123 50  0000 C CNN
+F 2 "" H 10950 3950 50  0001 C CNN
+F 3 "" H 10950 3950 50  0001 C CNN
+	1    10950 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10450 4300 10950 4300
+Wire Wire Line
+	10950 3950 10950 4300
 $EndSCHEMATC
