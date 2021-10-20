@@ -1,1947 +1,1646 @@
-445051591114460
-Connector_PinSocket_2.54mm
-PinSocket_1x01_P2.54mm_Horizontal
-Through hole angled socket strip, 1x01, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x01 2.54mm single row
+376212675941618
+Package_TO_SOT_THT
+Fairchild_TO-220F-6L
+Fairchild TO-220F-6L, http://www.mouser.com/ds/2/149/FSL136MRT-113334.pdf
+Fairchild TO-220F-6L
 0
-1
-1
-Connector_PinSocket_2.54mm
-PinSocket_1x01_P2.54mm_Vertical
-Through hole straight socket strip, 1x01, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x01 2.54mm single row
-0
-1
-1
-Connector_PinSocket_2.54mm
-PinSocket_1x02_P2.54mm_Horizontal
-Through hole angled socket strip, 1x02, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x02 2.54mm single row
+6
+6
+Package_TO_SOT_THT
+Heraeus_TO-92-2
+TO-92 2-pin variant by Heraeus, drill 0.75mm (http://www.produktinfo.conrad.com/datenblaetter/175000-199999/181293-da-01-de-TO92_Temperatursensor_PT1000_32209225.pdf)
+to-92
 0
 2
 2
-Connector_PinSocket_2.54mm
-PinSocket_1x02_P2.54mm_Vertical
-Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x02 2.54mm single row
-0
-2
-2
-Connector_PinSocket_2.54mm
-PinSocket_1x02_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x02, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x02 2.54mm single row style1 pin1 left
-0
-2
-2
-Connector_PinSocket_2.54mm
-PinSocket_1x02_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x02 2.54mm single row style2 pin1 right
-0
-2
-2
-Connector_PinSocket_2.54mm
-PinSocket_1x03_P2.54mm_Horizontal
-Through hole angled socket strip, 1x03, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x03 2.54mm single row
+Package_TO_SOT_THT
+NEC_Molded_7x4x9mm
+Molded Japan Transistor Package 7x4x9mm^3, http://rtellason.com/transdata/2sb734.pdf
+Japan transistor
 0
 3
 3
-Connector_PinSocket_2.54mm
-PinSocket_1x03_P2.54mm_Vertical
-Through hole straight socket strip, 1x03, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x03 2.54mm single row
+Package_TO_SOT_THT
+PowerIntegrations_TO-220-7C
+Non Isolated Modified TO-220 7pin Package, see http://www.farnell.com/datasheets/5793.pdf
+Power Integration Y Package
+0
+6
+6
+Package_TO_SOT_THT
+SIPAK-1EP_Horizontal_TabDown
+SIPAK, Horizontal, RM 2.286mm
+SIPAK Horizontal RM 2.286mm
+0
+4
+4
+Package_TO_SOT_THT
+SIPAK_Vertical
+SIPAK, Vertical, RM 2.286mm
+SIPAK Vertical RM 2.286mm
 0
 3
 3
-Connector_PinSocket_2.54mm
-PinSocket_1x03_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x03 2.54mm single row style1 pin1 left
+Package_TO_SOT_THT
+SOD-70_P2.54mm
+Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]
+Sod-70
+0
+2
+2
+Package_TO_SOT_THT
+SOD-70_P5.08mm
+Plastic near cylindrical package Sod-70 see: https://www.nxp.com/docs/en/data-sheet/KTY81_SER.pdf  [StepUp generated footprint]
+Sod-70
+0
+2
+2
+Package_TO_SOT_THT
+SOT-227
+SOT-227 / SOT-227B / ISOTOP, M4 mounting screws (https://www.vishay.com/docs/95423/sot227g2.pdf, https://www.vishay.com/docs/95793/vs-fc420sa10.pdf)
+sot 227 isotop
+0
+8
+4
+Package_TO_SOT_THT
+TO-3
+Transistor TO-3
+TR TO-3 TO3 TO-204
+0
+4
+3
+Package_TO_SOT_THT
+TO-3P-3_Horizontal_TabDown
+TO-3P-3, Horizontal, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
+TO-3P-3 Horizontal RM 5.45mm 
 0
 3
 3
-Connector_PinSocket_2.54mm
-PinSocket_1x03_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x03, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x03 2.54mm single row style2 pin1 right
+Package_TO_SOT_THT
+TO-3P-3_Horizontal_TabUp
+TO-3P-3, Horizontal, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
+TO-3P-3 Horizontal RM 5.45mm 
 0
 3
 3
-Connector_PinSocket_2.54mm
-PinSocket_1x04_P2.54mm_Horizontal
-Through hole angled socket strip, 1x04, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x04 2.54mm single row
-0
-4
-4
-Connector_PinSocket_2.54mm
-PinSocket_1x04_P2.54mm_Vertical
-Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x04 2.54mm single row
-0
-4
-4
-Connector_PinSocket_2.54mm
-PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x04 2.54mm single row style1 pin1 left
-0
-4
-4
-Connector_PinSocket_2.54mm
-PinSocket_1x04_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x04, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x04 2.54mm single row style2 pin1 right
-0
-4
-4
-Connector_PinSocket_2.54mm
-PinSocket_1x05_P2.54mm_Horizontal
-Through hole angled socket strip, 1x05, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x05 2.54mm single row
-0
-5
-5
-Connector_PinSocket_2.54mm
-PinSocket_1x05_P2.54mm_Vertical
-Through hole straight socket strip, 1x05, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x05 2.54mm single row
-0
-5
-5
-Connector_PinSocket_2.54mm
-PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x05, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x05 2.54mm single row style1 pin1 left
-0
-5
-5
-Connector_PinSocket_2.54mm
-PinSocket_1x05_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x05, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x05 2.54mm single row style2 pin1 right
-0
-5
-5
-Connector_PinSocket_2.54mm
-PinSocket_1x06_P2.54mm_Horizontal
-Through hole angled socket strip, 1x06, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Connector_PinSocket_2.54mm
-PinSocket_1x06_P2.54mm_Vertical
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Connector_PinSocket_2.54mm
-PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x06, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x06 2.54mm single row style1 pin1 left
-0
-6
-6
-Connector_PinSocket_2.54mm
-PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x06, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x06 2.54mm single row style2 pin1 right
-0
-6
-6
-Connector_PinSocket_2.54mm
-PinSocket_1x07_P2.54mm_Horizontal
-Through hole angled socket strip, 1x07, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x07 2.54mm single row
-0
-7
-7
-Connector_PinSocket_2.54mm
-PinSocket_1x07_P2.54mm_Vertical
-Through hole straight socket strip, 1x07, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x07 2.54mm single row
-0
-7
-7
-Connector_PinSocket_2.54mm
-PinSocket_1x07_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x07, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x07 2.54mm single row style1 pin1 left
-0
-7
-7
-Connector_PinSocket_2.54mm
-PinSocket_1x07_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x07, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x07 2.54mm single row style2 pin1 right
-0
-7
-7
-Connector_PinSocket_2.54mm
-PinSocket_1x08_P2.54mm_Horizontal
-Through hole angled socket strip, 1x08, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x08 2.54mm single row
-0
-8
-8
-Connector_PinSocket_2.54mm
-PinSocket_1x08_P2.54mm_Vertical
-Through hole straight socket strip, 1x08, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x08 2.54mm single row
-0
-8
-8
-Connector_PinSocket_2.54mm
-PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x08, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x08 2.54mm single row style1 pin1 left
-0
-8
-8
-Connector_PinSocket_2.54mm
-PinSocket_1x08_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x08, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x08 2.54mm single row style2 pin1 right
-0
-8
-8
-Connector_PinSocket_2.54mm
-PinSocket_1x09_P2.54mm_Horizontal
-Through hole angled socket strip, 1x09, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x09 2.54mm single row
-0
-9
-9
-Connector_PinSocket_2.54mm
-PinSocket_1x09_P2.54mm_Vertical
-Through hole straight socket strip, 1x09, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x09 2.54mm single row
-0
-9
-9
-Connector_PinSocket_2.54mm
-PinSocket_1x09_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x09, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x09 2.54mm single row style1 pin1 left
-0
-9
-9
-Connector_PinSocket_2.54mm
-PinSocket_1x09_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x09, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x09 2.54mm single row style2 pin1 right
-0
-9
-9
-Connector_PinSocket_2.54mm
-PinSocket_1x10_P2.54mm_Horizontal
-Through hole angled socket strip, 1x10, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x10 2.54mm single row
-0
-10
-10
-Connector_PinSocket_2.54mm
-PinSocket_1x10_P2.54mm_Vertical
-Through hole straight socket strip, 1x10, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x10 2.54mm single row
-0
-10
-10
-Connector_PinSocket_2.54mm
-PinSocket_1x10_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x10, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x10 2.54mm single row style1 pin1 left
-0
-10
-10
-Connector_PinSocket_2.54mm
-PinSocket_1x10_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x10, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x10 2.54mm single row style2 pin1 right
-0
-10
-10
-Connector_PinSocket_2.54mm
-PinSocket_1x11_P2.54mm_Horizontal
-Through hole angled socket strip, 1x11, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x11 2.54mm single row
-0
-11
-11
-Connector_PinSocket_2.54mm
-PinSocket_1x11_P2.54mm_Vertical
-Through hole straight socket strip, 1x11, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x11 2.54mm single row
-0
-11
-11
-Connector_PinSocket_2.54mm
-PinSocket_1x11_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x11, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x11 2.54mm single row style1 pin1 left
-0
-11
-11
-Connector_PinSocket_2.54mm
-PinSocket_1x11_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x11, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x11 2.54mm single row style2 pin1 right
-0
-11
-11
-Connector_PinSocket_2.54mm
-PinSocket_1x12_P2.54mm_Horizontal
-Through hole angled socket strip, 1x12, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x12 2.54mm single row
-0
-12
-12
-Connector_PinSocket_2.54mm
-PinSocket_1x12_P2.54mm_Vertical
-Through hole straight socket strip, 1x12, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x12 2.54mm single row
-0
-12
-12
-Connector_PinSocket_2.54mm
-PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x12, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x12 2.54mm single row style1 pin1 left
-0
-12
-12
-Connector_PinSocket_2.54mm
-PinSocket_1x12_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x12, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x12 2.54mm single row style2 pin1 right
-0
-12
-12
-Connector_PinSocket_2.54mm
-PinSocket_1x13_P2.54mm_Horizontal
-Through hole angled socket strip, 1x13, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x13 2.54mm single row
-0
-13
-13
-Connector_PinSocket_2.54mm
-PinSocket_1x13_P2.54mm_Vertical
-Through hole straight socket strip, 1x13, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x13 2.54mm single row
-0
-13
-13
-Connector_PinSocket_2.54mm
-PinSocket_1x13_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x13, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x13 2.54mm single row style1 pin1 left
-0
-13
-13
-Connector_PinSocket_2.54mm
-PinSocket_1x13_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x13, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x13 2.54mm single row style2 pin1 right
-0
-13
-13
-Connector_PinSocket_2.54mm
-PinSocket_1x14_P2.54mm_Horizontal
-Through hole angled socket strip, 1x14, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x14 2.54mm single row
-0
-14
-14
-Connector_PinSocket_2.54mm
-PinSocket_1x14_P2.54mm_Vertical
-Through hole straight socket strip, 1x14, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x14 2.54mm single row
-0
-14
-14
-Connector_PinSocket_2.54mm
-PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x14, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x14 2.54mm single row style1 pin1 left
-0
-14
-14
-Connector_PinSocket_2.54mm
-PinSocket_1x14_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x14, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x14 2.54mm single row style2 pin1 right
-0
-14
-14
-Connector_PinSocket_2.54mm
-PinSocket_1x15_P2.54mm_Horizontal
-Through hole angled socket strip, 1x15, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x15 2.54mm single row
-0
-15
-15
-Connector_PinSocket_2.54mm
-PinSocket_1x15_P2.54mm_Vertical
-Through hole straight socket strip, 1x15, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x15 2.54mm single row
-0
-15
-15
-Connector_PinSocket_2.54mm
-PinSocket_1x15_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x15, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x15 2.54mm single row style1 pin1 left
-0
-15
-15
-Connector_PinSocket_2.54mm
-PinSocket_1x15_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x15, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x15 2.54mm single row style2 pin1 right
-0
-15
-15
-Connector_PinSocket_2.54mm
-PinSocket_1x16_P2.54mm_Horizontal
-Through hole angled socket strip, 1x16, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x16 2.54mm single row
-0
-16
-16
-Connector_PinSocket_2.54mm
-PinSocket_1x16_P2.54mm_Vertical
-Through hole straight socket strip, 1x16, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x16 2.54mm single row
-0
-16
-16
-Connector_PinSocket_2.54mm
-PinSocket_1x16_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x16, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x16 2.54mm single row style1 pin1 left
-0
-16
-16
-Connector_PinSocket_2.54mm
-PinSocket_1x16_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x16, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x16 2.54mm single row style2 pin1 right
-0
-16
-16
-Connector_PinSocket_2.54mm
-PinSocket_1x17_P2.54mm_Horizontal
-Through hole angled socket strip, 1x17, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x17 2.54mm single row
-0
-17
-17
-Connector_PinSocket_2.54mm
-PinSocket_1x17_P2.54mm_Vertical
-Through hole straight socket strip, 1x17, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x17 2.54mm single row
-0
-17
-17
-Connector_PinSocket_2.54mm
-PinSocket_1x17_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x17, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x17 2.54mm single row style1 pin1 left
-0
-17
-17
-Connector_PinSocket_2.54mm
-PinSocket_1x17_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x17, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x17 2.54mm single row style2 pin1 right
-0
-17
-17
-Connector_PinSocket_2.54mm
-PinSocket_1x18_P2.54mm_Horizontal
-Through hole angled socket strip, 1x18, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x18 2.54mm single row
-0
-18
-18
-Connector_PinSocket_2.54mm
-PinSocket_1x18_P2.54mm_Vertical
-Through hole straight socket strip, 1x18, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x18 2.54mm single row
-0
-18
-18
-Connector_PinSocket_2.54mm
-PinSocket_1x18_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x18, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x18 2.54mm single row style1 pin1 left
-0
-18
-18
-Connector_PinSocket_2.54mm
-PinSocket_1x18_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x18, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x18 2.54mm single row style2 pin1 right
-0
-18
-18
-Connector_PinSocket_2.54mm
-PinSocket_1x19_P2.54mm_Horizontal
-Through hole angled socket strip, 1x19, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x19 2.54mm single row
-0
-19
-19
-Connector_PinSocket_2.54mm
-PinSocket_1x19_P2.54mm_Vertical
-Through hole straight socket strip, 1x19, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x19 2.54mm single row
-0
-19
-19
-Connector_PinSocket_2.54mm
-PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x19, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x19 2.54mm single row style1 pin1 left
-0
-19
-19
-Connector_PinSocket_2.54mm
-PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x19, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x19 2.54mm single row style2 pin1 right
-0
-19
-19
-Connector_PinSocket_2.54mm
-PinSocket_1x20_P2.54mm_Horizontal
-Through hole angled socket strip, 1x20, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x20 2.54mm single row
-0
-20
-20
-Connector_PinSocket_2.54mm
-PinSocket_1x20_P2.54mm_Vertical
-Through hole straight socket strip, 1x20, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x20 2.54mm single row
-0
-20
-20
-Connector_PinSocket_2.54mm
-PinSocket_1x20_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x20, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x20 2.54mm single row style1 pin1 left
-0
-20
-20
-Connector_PinSocket_2.54mm
-PinSocket_1x20_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x20, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x20 2.54mm single row style2 pin1 right
-0
-20
-20
-Connector_PinSocket_2.54mm
-PinSocket_1x21_P2.54mm_Horizontal
-Through hole angled socket strip, 1x21, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x21 2.54mm single row
-0
-21
-21
-Connector_PinSocket_2.54mm
-PinSocket_1x21_P2.54mm_Vertical
-Through hole straight socket strip, 1x21, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x21 2.54mm single row
-0
-21
-21
-Connector_PinSocket_2.54mm
-PinSocket_1x21_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x21, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x21 2.54mm single row style1 pin1 left
-0
-21
-21
-Connector_PinSocket_2.54mm
-PinSocket_1x21_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x21, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x21 2.54mm single row style2 pin1 right
-0
-21
-21
-Connector_PinSocket_2.54mm
-PinSocket_1x22_P2.54mm_Horizontal
-Through hole angled socket strip, 1x22, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x22 2.54mm single row
-0
-22
-22
-Connector_PinSocket_2.54mm
-PinSocket_1x22_P2.54mm_Vertical
-Through hole straight socket strip, 1x22, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x22 2.54mm single row
-0
-22
-22
-Connector_PinSocket_2.54mm
-PinSocket_1x22_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x22, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x22 2.54mm single row style1 pin1 left
-0
-22
-22
-Connector_PinSocket_2.54mm
-PinSocket_1x22_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x22, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x22 2.54mm single row style2 pin1 right
-0
-22
-22
-Connector_PinSocket_2.54mm
-PinSocket_1x23_P2.54mm_Horizontal
-Through hole angled socket strip, 1x23, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x23 2.54mm single row
-0
-23
-23
-Connector_PinSocket_2.54mm
-PinSocket_1x23_P2.54mm_Vertical
-Through hole straight socket strip, 1x23, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x23 2.54mm single row
-0
-23
-23
-Connector_PinSocket_2.54mm
-PinSocket_1x23_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x23, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x23 2.54mm single row style1 pin1 left
-0
-23
-23
-Connector_PinSocket_2.54mm
-PinSocket_1x23_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x23, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x23 2.54mm single row style2 pin1 right
-0
-23
-23
-Connector_PinSocket_2.54mm
-PinSocket_1x24_P2.54mm_Horizontal
-Through hole angled socket strip, 1x24, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x24 2.54mm single row
-0
-24
-24
-Connector_PinSocket_2.54mm
-PinSocket_1x24_P2.54mm_Vertical
-Through hole straight socket strip, 1x24, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x24 2.54mm single row
-0
-24
-24
-Connector_PinSocket_2.54mm
-PinSocket_1x24_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x24, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x24 2.54mm single row style1 pin1 left
-0
-24
-24
-Connector_PinSocket_2.54mm
-PinSocket_1x24_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x24, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x24 2.54mm single row style2 pin1 right
-0
-24
-24
-Connector_PinSocket_2.54mm
-PinSocket_1x25_P2.54mm_Horizontal
-Through hole angled socket strip, 1x25, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x25 2.54mm single row
-0
-25
-25
-Connector_PinSocket_2.54mm
-PinSocket_1x25_P2.54mm_Vertical
-Through hole straight socket strip, 1x25, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x25 2.54mm single row
-0
-25
-25
-Connector_PinSocket_2.54mm
-PinSocket_1x25_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x25, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x25 2.54mm single row style1 pin1 left
-0
-25
-25
-Connector_PinSocket_2.54mm
-PinSocket_1x25_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x25, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x25 2.54mm single row style2 pin1 right
-0
-25
-25
-Connector_PinSocket_2.54mm
-PinSocket_1x26_P2.54mm_Horizontal
-Through hole angled socket strip, 1x26, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x26 2.54mm single row
-0
-26
-26
-Connector_PinSocket_2.54mm
-PinSocket_1x26_P2.54mm_Vertical
-Through hole straight socket strip, 1x26, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x26 2.54mm single row
-0
-26
-26
-Connector_PinSocket_2.54mm
-PinSocket_1x26_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x26, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x26 2.54mm single row style1 pin1 left
-0
-26
-26
-Connector_PinSocket_2.54mm
-PinSocket_1x26_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x26, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x26 2.54mm single row style2 pin1 right
-0
-26
-26
-Connector_PinSocket_2.54mm
-PinSocket_1x27_P2.54mm_Horizontal
-Through hole angled socket strip, 1x27, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x27 2.54mm single row
-0
-27
-27
-Connector_PinSocket_2.54mm
-PinSocket_1x27_P2.54mm_Vertical
-Through hole straight socket strip, 1x27, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x27 2.54mm single row
-0
-27
-27
-Connector_PinSocket_2.54mm
-PinSocket_1x27_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x27, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x27 2.54mm single row style1 pin1 left
-0
-27
-27
-Connector_PinSocket_2.54mm
-PinSocket_1x27_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x27, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x27 2.54mm single row style2 pin1 right
-0
-27
-27
-Connector_PinSocket_2.54mm
-PinSocket_1x28_P2.54mm_Horizontal
-Through hole angled socket strip, 1x28, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x28 2.54mm single row
-0
-28
-28
-Connector_PinSocket_2.54mm
-PinSocket_1x28_P2.54mm_Vertical
-Through hole straight socket strip, 1x28, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x28 2.54mm single row
-0
-28
-28
-Connector_PinSocket_2.54mm
-PinSocket_1x28_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x28, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x28 2.54mm single row style1 pin1 left
-0
-28
-28
-Connector_PinSocket_2.54mm
-PinSocket_1x28_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x28, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x28 2.54mm single row style2 pin1 right
-0
-28
-28
-Connector_PinSocket_2.54mm
-PinSocket_1x29_P2.54mm_Horizontal
-Through hole angled socket strip, 1x29, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x29 2.54mm single row
-0
-29
-29
-Connector_PinSocket_2.54mm
-PinSocket_1x29_P2.54mm_Vertical
-Through hole straight socket strip, 1x29, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x29 2.54mm single row
-0
-29
-29
-Connector_PinSocket_2.54mm
-PinSocket_1x29_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x29, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x29 2.54mm single row style1 pin1 left
-0
-29
-29
-Connector_PinSocket_2.54mm
-PinSocket_1x29_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x29, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x29 2.54mm single row style2 pin1 right
-0
-29
-29
-Connector_PinSocket_2.54mm
-PinSocket_1x30_P2.54mm_Horizontal
-Through hole angled socket strip, 1x30, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x30 2.54mm single row
-0
-30
-30
-Connector_PinSocket_2.54mm
-PinSocket_1x30_P2.54mm_Vertical
-Through hole straight socket strip, 1x30, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x30 2.54mm single row
-0
-30
-30
-Connector_PinSocket_2.54mm
-PinSocket_1x30_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x30, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x30 2.54mm single row style1 pin1 left
-0
-30
-30
-Connector_PinSocket_2.54mm
-PinSocket_1x30_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x30, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x30 2.54mm single row style2 pin1 right
-0
-30
-30
-Connector_PinSocket_2.54mm
-PinSocket_1x31_P2.54mm_Horizontal
-Through hole angled socket strip, 1x31, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x31 2.54mm single row
-0
-31
-31
-Connector_PinSocket_2.54mm
-PinSocket_1x31_P2.54mm_Vertical
-Through hole straight socket strip, 1x31, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x31 2.54mm single row
-0
-31
-31
-Connector_PinSocket_2.54mm
-PinSocket_1x31_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x31, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x31 2.54mm single row style1 pin1 left
-0
-31
-31
-Connector_PinSocket_2.54mm
-PinSocket_1x31_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x31, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x31 2.54mm single row style2 pin1 right
-0
-31
-31
-Connector_PinSocket_2.54mm
-PinSocket_1x32_P2.54mm_Horizontal
-Through hole angled socket strip, 1x32, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x32 2.54mm single row
-0
-32
-32
-Connector_PinSocket_2.54mm
-PinSocket_1x32_P2.54mm_Vertical
-Through hole straight socket strip, 1x32, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x32 2.54mm single row
-0
-32
-32
-Connector_PinSocket_2.54mm
-PinSocket_1x32_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x32, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x32 2.54mm single row style1 pin1 left
-0
-32
-32
-Connector_PinSocket_2.54mm
-PinSocket_1x32_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x32, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x32 2.54mm single row style2 pin1 right
-0
-32
-32
-Connector_PinSocket_2.54mm
-PinSocket_1x33_P2.54mm_Horizontal
-Through hole angled socket strip, 1x33, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x33 2.54mm single row
-0
-33
-33
-Connector_PinSocket_2.54mm
-PinSocket_1x33_P2.54mm_Vertical
-Through hole straight socket strip, 1x33, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x33 2.54mm single row
-0
-33
-33
-Connector_PinSocket_2.54mm
-PinSocket_1x33_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x33, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x33 2.54mm single row style1 pin1 left
-0
-33
-33
-Connector_PinSocket_2.54mm
-PinSocket_1x33_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x33, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x33 2.54mm single row style2 pin1 right
-0
-33
-33
-Connector_PinSocket_2.54mm
-PinSocket_1x34_P2.54mm_Horizontal
-Through hole angled socket strip, 1x34, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x34 2.54mm single row
-0
-34
-34
-Connector_PinSocket_2.54mm
-PinSocket_1x34_P2.54mm_Vertical
-Through hole straight socket strip, 1x34, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x34 2.54mm single row
-0
-34
-34
-Connector_PinSocket_2.54mm
-PinSocket_1x34_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x34, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x34 2.54mm single row style1 pin1 left
-0
-34
-34
-Connector_PinSocket_2.54mm
-PinSocket_1x34_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x34, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x34 2.54mm single row style2 pin1 right
-0
-34
-34
-Connector_PinSocket_2.54mm
-PinSocket_1x35_P2.54mm_Horizontal
-Through hole angled socket strip, 1x35, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x35 2.54mm single row
-0
-35
-35
-Connector_PinSocket_2.54mm
-PinSocket_1x35_P2.54mm_Vertical
-Through hole straight socket strip, 1x35, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x35 2.54mm single row
-0
-35
-35
-Connector_PinSocket_2.54mm
-PinSocket_1x35_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x35, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x35 2.54mm single row style1 pin1 left
-0
-35
-35
-Connector_PinSocket_2.54mm
-PinSocket_1x35_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x35, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x35 2.54mm single row style2 pin1 right
-0
-35
-35
-Connector_PinSocket_2.54mm
-PinSocket_1x36_P2.54mm_Horizontal
-Through hole angled socket strip, 1x36, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x36 2.54mm single row
-0
-36
-36
-Connector_PinSocket_2.54mm
-PinSocket_1x36_P2.54mm_Vertical
-Through hole straight socket strip, 1x36, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x36 2.54mm single row
-0
-36
-36
-Connector_PinSocket_2.54mm
-PinSocket_1x36_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x36, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x36 2.54mm single row style1 pin1 left
-0
-36
-36
-Connector_PinSocket_2.54mm
-PinSocket_1x36_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x36, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x36 2.54mm single row style2 pin1 right
-0
-36
-36
-Connector_PinSocket_2.54mm
-PinSocket_1x37_P2.54mm_Horizontal
-Through hole angled socket strip, 1x37, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x37 2.54mm single row
-0
-37
-37
-Connector_PinSocket_2.54mm
-PinSocket_1x37_P2.54mm_Vertical
-Through hole straight socket strip, 1x37, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x37 2.54mm single row
-0
-37
-37
-Connector_PinSocket_2.54mm
-PinSocket_1x37_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x37, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x37 2.54mm single row style1 pin1 left
-0
-37
-37
-Connector_PinSocket_2.54mm
-PinSocket_1x37_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x37, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x37 2.54mm single row style2 pin1 right
-0
-37
-37
-Connector_PinSocket_2.54mm
-PinSocket_1x38_P2.54mm_Horizontal
-Through hole angled socket strip, 1x38, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x38 2.54mm single row
-0
-38
-38
-Connector_PinSocket_2.54mm
-PinSocket_1x38_P2.54mm_Vertical
-Through hole straight socket strip, 1x38, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x38 2.54mm single row
-0
-38
-38
-Connector_PinSocket_2.54mm
-PinSocket_1x38_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x38, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x38 2.54mm single row style1 pin1 left
-0
-38
-38
-Connector_PinSocket_2.54mm
-PinSocket_1x38_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x38, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x38 2.54mm single row style2 pin1 right
-0
-38
-38
-Connector_PinSocket_2.54mm
-PinSocket_1x39_P2.54mm_Horizontal
-Through hole angled socket strip, 1x39, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x39 2.54mm single row
-0
-39
-39
-Connector_PinSocket_2.54mm
-PinSocket_1x39_P2.54mm_Vertical
-Through hole straight socket strip, 1x39, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x39 2.54mm single row
-0
-39
-39
-Connector_PinSocket_2.54mm
-PinSocket_1x39_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x39, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x39 2.54mm single row style1 pin1 left
-0
-39
-39
-Connector_PinSocket_2.54mm
-PinSocket_1x39_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x39, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x39 2.54mm single row style2 pin1 right
-0
-39
-39
-Connector_PinSocket_2.54mm
-PinSocket_1x40_P2.54mm_Horizontal
-Through hole angled socket strip, 1x40, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 1x40 2.54mm single row
-0
-40
-40
-Connector_PinSocket_2.54mm
-PinSocket_1x40_P2.54mm_Vertical
-Through hole straight socket strip, 1x40, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
-Through hole socket strip THT 1x40 2.54mm single row
-0
-40
-40
-Connector_PinSocket_2.54mm
-PinSocket_1x40_P2.54mm_Vertical_SMD_Pin1Left
-surface-mounted straight socket strip, 1x40, 2.54mm pitch, single row, style 1 (pin 1 left) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x40 2.54mm single row style1 pin1 left
-0
-40
-40
-Connector_PinSocket_2.54mm
-PinSocket_1x40_P2.54mm_Vertical_SMD_Pin1Right
-surface-mounted straight socket strip, 1x40, 2.54mm pitch, single row, style 2 (pin 1 right) (https://cdn.harwin.com/pdfs/M20-786.pdf), script generated
-Surface mounted socket strip SMD 1x40 2.54mm single row style2 pin1 right
-0
-40
-40
-Connector_PinSocket_2.54mm
-PinSocket_2x01_P2.54mm_Horizontal
-Through hole angled socket strip, 2x01, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x01 2.54mm double row
+Package_TO_SOT_THT
+TO-3P-3_Vertical
+TO-3P-3, Vertical, RM 5.45mm, , see https://toshiba.semicon-storage.com/ap-en/design-support/package/detail.TO-3P(N).html
+TO-3P-3 Vertical RM 5.45mm 
+0
+3
+3
+Package_TO_SOT_THT
+TO-3PB-3_Horizontal_TabDown
+TO-3PB-3, Horizontal, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF
+TO-3PB-3 Horizontal RM 5.45mm 
+0
+3
+3
+Package_TO_SOT_THT
+TO-3PB-3_Horizontal_TabUp
+TO-3PB-3, Horizontal, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF
+TO-3PB-3 Horizontal RM 5.45mm 
+0
+3
+3
+Package_TO_SOT_THT
+TO-3PB-3_Vertical
+TO-3PB-3, Vertical, RM 5.45mm, , see http://www.onsemi.com/pub/Collateral/340AC.PDF
+TO-3PB-3 Vertical RM 5.45mm 
+0
+3
+3
+Package_TO_SOT_THT
+TO-5-2
+TO-5-2
+TO-5-2
 0
 2
 2
-Connector_PinSocket_2.54mm
-PinSocket_2x01_P2.54mm_Vertical
-Through hole straight socket strip, 2x01, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x01 2.54mm double row
+Package_TO_SOT_THT
+TO-5-2_Window
+TO-5-2_Window, Window
+TO-5-2_Window Window
 0
 2
 2
-Connector_PinSocket_2.54mm
-PinSocket_2x01_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x01, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x01 2.54mm double row
+Package_TO_SOT_THT
+TO-5-3
+TO-5-3
+TO-5-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-5-3_Window
+TO-5-3_Window, Window
+TO-5-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-5-4
+TO-5-4
+TO-5-4
+0
+4
+4
+Package_TO_SOT_THT
+TO-5-4_Window
+TO-5-4_Window, Window
+TO-5-4_Window Window
+0
+4
+4
+Package_TO_SOT_THT
+TO-5-6
+TO-5-6
+TO-5-6
+0
+6
+6
+Package_TO_SOT_THT
+TO-5-6_Window
+TO-5-6_Window, Window
+TO-5-6_Window Window
+0
+6
+6
+Package_TO_SOT_THT
+TO-5-8
+TO-5-8
+TO-5-8
+0
+8
+8
+Package_TO_SOT_THT
+TO-5-8_PD5.08
+TO-5-8_PD5.08
+TO-5-8_PD5.08
+0
+8
+8
+Package_TO_SOT_THT
+TO-5-8_PD5.08_Window
+TO-5-8_PD5.08_Window, Window
+TO-5-8_PD5.08_Window Window
+0
+8
+8
+Package_TO_SOT_THT
+TO-5-8_Window
+TO-5-8_Window, Window
+TO-5-8_Window Window
+0
+8
+8
+Package_TO_SOT_THT
+TO-5-10
+TO-5-10
+TO-5-10
+0
+10
+10
+Package_TO_SOT_THT
+TO-5-10_Window
+TO-5-10_Window, Window
+TO-5-10_Window Window
+0
+10
+10
+Package_TO_SOT_THT
+TO-8-2
+TO-8-2
+TO-8-2
 0
 2
 2
-Connector_PinSocket_2.54mm
-PinSocket_2x02_P2.54mm_Horizontal
-Through hole angled socket strip, 2x02, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x02 2.54mm double row
+Package_TO_SOT_THT
+TO-8-2_Window
+TO-8-2_Window, Window
+TO-8-2_Window Window
+0
+2
+2
+Package_TO_SOT_THT
+TO-8-3
+TO-8-3
+TO-8-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-8-3_Window
+TO-8-3_Window, Window
+TO-8-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-11-2
+TO-11-2
+TO-11-2
+0
+2
+2
+Package_TO_SOT_THT
+TO-11-2_Window
+TO-11-2_Window, Window
+TO-11-2_Window Window
+0
+2
+2
+Package_TO_SOT_THT
+TO-11-3
+TO-11-3
+TO-11-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-11-3_Window
+TO-11-3_Window, Window
+TO-11-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-12-4
+TO-12-4
+TO-12-4
 0
 4
 4
-Connector_PinSocket_2.54mm
-PinSocket_2x02_P2.54mm_Vertical
-Through hole straight socket strip, 2x02, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x02 2.54mm double row
+Package_TO_SOT_THT
+TO-12-4_Window
+TO-12-4_Window, Window
+TO-12-4_Window Window
 0
 4
 4
-Connector_PinSocket_2.54mm
-PinSocket_2x02_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x02, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x02 2.54mm double row
+Package_TO_SOT_THT
+TO-17-4
+TO-17-4
+TO-17-4
 0
 4
 4
-Connector_PinSocket_2.54mm
-PinSocket_2x03_P2.54mm_Horizontal
-Through hole angled socket strip, 2x03, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x03 2.54mm double row
+Package_TO_SOT_THT
+TO-17-4_Window
+TO-17-4_Window, Window
+TO-17-4_Window Window
+0
+4
+4
+Package_TO_SOT_THT
+TO-18-2
+TO-18-2
+TO-18-2
+0
+2
+2
+Package_TO_SOT_THT
+TO-18-2_Lens
+TO-18-2_Lens, Lens
+TO-18-2_Lens Lens
+0
+2
+2
+Package_TO_SOT_THT
+TO-18-2_Window
+TO-18-2_Window, Window
+TO-18-2_Window Window
+0
+2
+2
+Package_TO_SOT_THT
+TO-18-3
+TO-18-3
+TO-18-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-18-3_Lens
+TO-18-3_Lens, Lens
+TO-18-3_Lens Lens
+0
+3
+3
+Package_TO_SOT_THT
+TO-18-3_Window
+TO-18-3_Window, Window
+TO-18-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-18-4
+TO-18-4
+TO-18-4
+0
+4
+4
+Package_TO_SOT_THT
+TO-18-4_Lens
+TO-18-4_Lens, Lens
+TO-18-4_Lens Lens
+0
+4
+4
+Package_TO_SOT_THT
+TO-18-4_Window
+TO-18-4_Window, Window
+TO-18-4_Window Window
+0
+4
+4
+Package_TO_SOT_THT
+TO-33-4
+TO-33-4
+TO-33-4
+0
+4
+4
+Package_TO_SOT_THT
+TO-33-4_Window
+TO-33-4_Window, Window
+TO-33-4_Window Window
+0
+4
+4
+Package_TO_SOT_THT
+TO-38-2
+TO-38-2
+TO-38-2
+0
+2
+2
+Package_TO_SOT_THT
+TO-38-2_Window
+TO-38-2_Window, Window
+TO-38-2_Window Window
+0
+2
+2
+Package_TO_SOT_THT
+TO-38-3
+TO-38-3
+TO-38-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-38-3_Window
+TO-38-3_Window, Window
+TO-38-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-39-2
+TO-39-2
+TO-39-2
+0
+2
+2
+Package_TO_SOT_THT
+TO-39-2_Window
+TO-39-2_Window, Window
+TO-39-2_Window Window
+0
+2
+2
+Package_TO_SOT_THT
+TO-39-3
+TO-39-3
+TO-39-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-39-3_Window
+TO-39-3_Window, Window
+TO-39-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-39-4
+TO-39-4
+TO-39-4
+0
+4
+4
+Package_TO_SOT_THT
+TO-39-4_Window
+TO-39-4_Window, Window
+TO-39-4_Window Window
+0
+4
+4
+Package_TO_SOT_THT
+TO-39-6
+TO-39-6
+TO-39-6
 0
 6
 6
-Connector_PinSocket_2.54mm
-PinSocket_2x03_P2.54mm_Vertical
-Through hole straight socket strip, 2x03, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x03 2.54mm double row
+Package_TO_SOT_THT
+TO-39-6_Window
+TO-39-6_Window, Window
+TO-39-6_Window Window
 0
 6
 6
-Connector_PinSocket_2.54mm
-PinSocket_2x03_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x03, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x03 2.54mm double row
+Package_TO_SOT_THT
+TO-39-8
+TO-39-8
+TO-39-8
+0
+8
+8
+Package_TO_SOT_THT
+TO-39-8_Window
+TO-39-8_Window, Window
+TO-39-8_Window Window
+0
+8
+8
+Package_TO_SOT_THT
+TO-39-10
+TO-39-10
+TO-39-10
+0
+10
+10
+Package_TO_SOT_THT
+TO-39-10_Window
+TO-39-10_Window, Window
+TO-39-10_Window Window
+0
+10
+10
+Package_TO_SOT_THT
+TO-46-2
+TO-46-2
+TO-46-2
+0
+2
+2
+Package_TO_SOT_THT
+TO-46-2_Pin2Center
+TO-46-2, Pin2 at center of package, Thorlabs photodiodes
+TO-46-2 Thorlabs
+0
+2
+2
+Package_TO_SOT_THT
+TO-46-2_Pin2Center_Window
+TO-46-2, Pin2 at center of package, Thorlabs photodiodes
+TO-46-2 Thorlabs
+0
+2
+2
+Package_TO_SOT_THT
+TO-46-2_Window
+TO-46-2_Window, Window
+TO-46-2_Window Window
+0
+2
+2
+Package_TO_SOT_THT
+TO-46-3
+TO-46-3
+TO-46-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-46-3_Pin2Center
+TO-46-3, Pin2 at center of package, Thorlabs photodiodes, https://www.thorlabs.de/drawings/374b6862eb3b5a04-9360B5F6-5056-2306-D912111C06C3F830/FDGA05-SpecSheet.pdf
+TO-46-3 Thorlabs
+0
+3
+3
+Package_TO_SOT_THT
+TO-46-3_Pin2Center_Window
+TO-46-3, Pin2 at center of package, Thorlabs photodiodes, https://www.thorlabs.de/drawings/374b6862eb3b5a04-9360B5F6-5056-2306-D912111C06C3F830/FDGA05-SpecSheet.pdf
+TO-46-3 Thorlabs
+0
+3
+3
+Package_TO_SOT_THT
+TO-46-3_Window
+TO-46-3_Window, Window
+TO-46-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-46-4
+TO-46-4
+TO-46-4
+0
+4
+4
+Package_TO_SOT_THT
+TO-46-4_Window
+TO-46-4_Window, Window
+TO-46-4_Window Window
+0
+4
+4
+Package_TO_SOT_THT
+TO-52-2
+TO-52-2
+TO-52-2
+0
+2
+2
+Package_TO_SOT_THT
+TO-52-2_Window
+TO-52-2_Window, Window
+TO-52-2_Window Window
+0
+2
+2
+Package_TO_SOT_THT
+TO-52-3
+TO-52-3
+TO-52-3
+0
+3
+3
+Package_TO_SOT_THT
+TO-52-3_Window
+TO-52-3_Window, Window
+TO-52-3_Window Window
+0
+3
+3
+Package_TO_SOT_THT
+TO-72-4
+TO-72-4
+TO-72-4
+0
+4
+4
+Package_TO_SOT_THT
+TO-72-4_Window
+TO-72-4_Window, Window
+TO-72-4_Window Window
+0
+4
+4
+Package_TO_SOT_THT
+TO-75-6
+TO-75-6
+TO-75-6
 0
 6
 6
-Connector_PinSocket_2.54mm
-PinSocket_2x04_P2.54mm_Horizontal
-Through hole angled socket strip, 2x04, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x04 2.54mm double row
+Package_TO_SOT_THT
+TO-75-6_Window
+TO-75-6_Window, Window
+TO-75-6_Window Window
+0
+6
+6
+Package_TO_SOT_THT
+TO-78-6
+TO-78-6
+TO-78-6
+0
+6
+6
+Package_TO_SOT_THT
+TO-78-6_Window
+TO-78-6_Window, Window
+TO-78-6_Window Window
+0
+6
+6
+Package_TO_SOT_THT
+TO-78-8
+TO-78-8
+TO-78-8
 0
 8
 8
-Connector_PinSocket_2.54mm
-PinSocket_2x04_P2.54mm_Vertical
-Through hole straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x04 2.54mm double row
+Package_TO_SOT_THT
+TO-78-8_Window
+TO-78-8_Window, Window
+TO-78-8_Window Window
 0
 8
 8
-Connector_PinSocket_2.54mm
-PinSocket_2x04_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x04, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x04 2.54mm double row
+Package_TO_SOT_THT
+TO-78-10
+TO-78-10
+TO-78-10
+0
+10
+10
+Package_TO_SOT_THT
+TO-78-10_Window
+TO-78-10_Window, Window
+TO-78-10_Window Window
+0
+10
+10
+Package_TO_SOT_THT
+TO-92
+TO-92 leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92-2
+TO-92 2-pin leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 diode SOD70
+0
+2
+2
+Package_TO_SOT_THT
+TO-92-2_Horizontal1
+2-pin TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 temperature sensor diode
+0
+2
+2
+Package_TO_SOT_THT
+TO-92-2_Horizontal2
+2-pin TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 temperature sensor diode
+0
+2
+2
+Package_TO_SOT_THT
+TO-92-2_W4.0mm_Horizontal_FlatSideDown
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+2
+2
+Package_TO_SOT_THT
+TO-92-2_W4.0mm_Horizontal_FlatSideUp
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+2
+2
+Package_TO_SOT_THT
+TO-92-2_Wide
+TO-92 2-pin leads in-line, wide, drill 0.75mm
+to-92 sc-43 sc-43a sot54 PA33 diode SOD70
+0
+2
+2
+Package_TO_SOT_THT
+TO-92Flat
+TO-92Flat package, often used for hall sensors, drill 0.75mm (see e.g. http://www.ti.com/lit/ds/symlink/drv5023.pdf)
+to-92Flat hall sensor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92L
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Molded Narrow transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92L_HandSolder
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm, hand-soldering variant with enlarged pads (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92L_Inline
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Inline Wide transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92L_Inline_Wide
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Inline Wide transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92L_Wide
+TO-92L leads in-line (large body variant of TO-92), also known as TO-226, wide, drill 0.75mm (see https://www.diodes.com/assets/Package-Files/TO92L.pdf and http://www.ti.com/lit/an/snoa059/snoa059.pdf)
+TO-92L Molded Wide transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92Mini-2
+TO-92Mini package, drill 0.6mm (https://media.digikey.com/pdf/Data%20Sheets/Infineon%20PDFs/KT,KTY.pdf)
+to-92Mini transistor 
+0
+2
+2
+Package_TO_SOT_THT
+TO-92S
+TO-92S package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
+to-92S transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92S-2
+TO-92S package, 2-pin, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
+to-92S transistor
+0
+2
+2
+Package_TO_SOT_THT
+TO-92S_Wide
+TO-92S_Wide package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf)
+TO-92S_Wide transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_HandSolder
+TO-92 leads molded, narrow, drill 0.75mm, handsoldering variant with enlarged pads (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Horizontal1
+TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Horizontal2
+TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Inline
+TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Inline_Horizontal1
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Inline_Horizontal2
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Inline_W4.0mm_Horizontal_FlatSideDown
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Inline_W4.0mm_Horizontal_FlatSideUp
+TO-92 horizontal, leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Inline_Wide
+TO-92 leads in-line, wide, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_W4.0mm_StaggerEven_Horizontal_FlatSideDown
+TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_W4.0mm_StaggerEven_Horizontal_FlatSideUp
+TO-92 horizontal, leads molded, narrow, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-92_Wide
+TO-92 leads molded, wide, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3
+Package_TO_SOT_THT
+TO-99-6
+TO-99-6
+TO-99-6
+0
+6
+6
+Package_TO_SOT_THT
+TO-99-6_Window
+TO-99-6_Window, Window
+TO-99-6_Window Window
+0
+6
+6
+Package_TO_SOT_THT
+TO-99-8
+TO-99-8
+TO-99-8
 0
 8
 8
-Connector_PinSocket_2.54mm
-PinSocket_2x05_P2.54mm_Horizontal
-Through hole angled socket strip, 2x05, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x05 2.54mm double row
+Package_TO_SOT_THT
+TO-99-8_Window
+TO-99-8_Window, Window
+TO-99-8_Window Window
+0
+8
+8
+Package_TO_SOT_THT
+TO-100-10
+TO-100-10
+TO-100-10
 0
 10
 10
-Connector_PinSocket_2.54mm
-PinSocket_2x05_P2.54mm_Vertical
-Through hole straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x05 2.54mm double row
+Package_TO_SOT_THT
+TO-100-10_Window
+TO-100-10_Window, Window
+TO-100-10_Window Window
 0
 10
 10
-Connector_PinSocket_2.54mm
-PinSocket_2x05_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x05, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x05 2.54mm double row
-0
-10
-10
-Connector_PinSocket_2.54mm
-PinSocket_2x06_P2.54mm_Horizontal
-Through hole angled socket strip, 2x06, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x06 2.54mm double row
-0
-12
-12
-Connector_PinSocket_2.54mm
-PinSocket_2x06_P2.54mm_Vertical
-Through hole straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x06 2.54mm double row
-0
-12
-12
-Connector_PinSocket_2.54mm
-PinSocket_2x06_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x06, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x06 2.54mm double row
-0
-12
-12
-Connector_PinSocket_2.54mm
-PinSocket_2x07_P2.54mm_Horizontal
-Through hole angled socket strip, 2x07, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x07 2.54mm double row
-0
-14
-14
-Connector_PinSocket_2.54mm
-PinSocket_2x07_P2.54mm_Vertical
-Through hole straight socket strip, 2x07, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x07 2.54mm double row
-0
-14
-14
-Connector_PinSocket_2.54mm
-PinSocket_2x07_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x07, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x07 2.54mm double row
-0
-14
-14
-Connector_PinSocket_2.54mm
-PinSocket_2x08_P2.54mm_Horizontal
-Through hole angled socket strip, 2x08, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x08 2.54mm double row
-0
-16
-16
-Connector_PinSocket_2.54mm
-PinSocket_2x08_P2.54mm_Vertical
-Through hole straight socket strip, 2x08, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x08 2.54mm double row
-0
-16
-16
-Connector_PinSocket_2.54mm
-PinSocket_2x08_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x08, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x08 2.54mm double row
-0
-16
-16
-Connector_PinSocket_2.54mm
-PinSocket_2x09_P2.54mm_Horizontal
-Through hole angled socket strip, 2x09, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x09 2.54mm double row
-0
-18
-18
-Connector_PinSocket_2.54mm
-PinSocket_2x09_P2.54mm_Vertical
-Through hole straight socket strip, 2x09, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x09 2.54mm double row
-0
-18
-18
-Connector_PinSocket_2.54mm
-PinSocket_2x09_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x09, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x09 2.54mm double row
-0
-18
-18
-Connector_PinSocket_2.54mm
-PinSocket_2x10_P2.54mm_Horizontal
-Through hole angled socket strip, 2x10, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x10 2.54mm double row
-0
-20
-20
-Connector_PinSocket_2.54mm
-PinSocket_2x10_P2.54mm_Vertical
-Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x10 2.54mm double row
-0
-20
-20
-Connector_PinSocket_2.54mm
-PinSocket_2x10_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x10 2.54mm double row
-0
-20
-20
-Connector_PinSocket_2.54mm
-PinSocket_2x11_P2.54mm_Horizontal
-Through hole angled socket strip, 2x11, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x11 2.54mm double row
-0
-22
-22
-Connector_PinSocket_2.54mm
-PinSocket_2x11_P2.54mm_Vertical
-Through hole straight socket strip, 2x11, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x11 2.54mm double row
-0
-22
-22
-Connector_PinSocket_2.54mm
-PinSocket_2x11_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x11, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x11 2.54mm double row
-0
-22
-22
-Connector_PinSocket_2.54mm
-PinSocket_2x12_P2.54mm_Horizontal
-Through hole angled socket strip, 2x12, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x12 2.54mm double row
-0
-24
-24
-Connector_PinSocket_2.54mm
-PinSocket_2x12_P2.54mm_Vertical
-Through hole straight socket strip, 2x12, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x12 2.54mm double row
-0
-24
-24
-Connector_PinSocket_2.54mm
-PinSocket_2x12_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x12, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x12 2.54mm double row
-0
-24
-24
-Connector_PinSocket_2.54mm
-PinSocket_2x13_P2.54mm_Horizontal
-Through hole angled socket strip, 2x13, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x13 2.54mm double row
-0
-26
-26
-Connector_PinSocket_2.54mm
-PinSocket_2x13_P2.54mm_Vertical
-Through hole straight socket strip, 2x13, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x13 2.54mm double row
-0
-26
-26
-Connector_PinSocket_2.54mm
-PinSocket_2x13_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x13, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x13 2.54mm double row
-0
-26
-26
-Connector_PinSocket_2.54mm
-PinSocket_2x14_P2.54mm_Horizontal
-Through hole angled socket strip, 2x14, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x14 2.54mm double row
-0
-28
-28
-Connector_PinSocket_2.54mm
-PinSocket_2x14_P2.54mm_Vertical
-Through hole straight socket strip, 2x14, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x14 2.54mm double row
-0
-28
-28
-Connector_PinSocket_2.54mm
-PinSocket_2x14_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x14, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x14 2.54mm double row
-0
-28
-28
-Connector_PinSocket_2.54mm
-PinSocket_2x15_P2.54mm_Horizontal
-Through hole angled socket strip, 2x15, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x15 2.54mm double row
-0
-30
-30
-Connector_PinSocket_2.54mm
-PinSocket_2x15_P2.54mm_Vertical
-Through hole straight socket strip, 2x15, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x15 2.54mm double row
-0
-30
-30
-Connector_PinSocket_2.54mm
-PinSocket_2x15_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x15, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x15 2.54mm double row
-0
-30
-30
-Connector_PinSocket_2.54mm
-PinSocket_2x16_P2.54mm_Horizontal
-Through hole angled socket strip, 2x16, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x16 2.54mm double row
-0
-32
-32
-Connector_PinSocket_2.54mm
-PinSocket_2x16_P2.54mm_Vertical
-Through hole straight socket strip, 2x16, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x16 2.54mm double row
-0
-32
-32
-Connector_PinSocket_2.54mm
-PinSocket_2x16_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x16, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x16 2.54mm double row
-0
-32
-32
-Connector_PinSocket_2.54mm
-PinSocket_2x17_P2.54mm_Horizontal
-Through hole angled socket strip, 2x17, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x17 2.54mm double row
-0
-34
-34
-Connector_PinSocket_2.54mm
-PinSocket_2x17_P2.54mm_Vertical
-Through hole straight socket strip, 2x17, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x17 2.54mm double row
-0
-34
-34
-Connector_PinSocket_2.54mm
-PinSocket_2x17_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x17, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x17 2.54mm double row
-0
-34
-34
-Connector_PinSocket_2.54mm
-PinSocket_2x18_P2.54mm_Horizontal
-Through hole angled socket strip, 2x18, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x18 2.54mm double row
-0
-36
-36
-Connector_PinSocket_2.54mm
-PinSocket_2x18_P2.54mm_Vertical
-Through hole straight socket strip, 2x18, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x18 2.54mm double row
-0
-36
-36
-Connector_PinSocket_2.54mm
-PinSocket_2x18_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x18, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x18 2.54mm double row
-0
-36
-36
-Connector_PinSocket_2.54mm
-PinSocket_2x19_P2.54mm_Horizontal
-Through hole angled socket strip, 2x19, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x19 2.54mm double row
-0
-38
-38
-Connector_PinSocket_2.54mm
-PinSocket_2x19_P2.54mm_Vertical
-Through hole straight socket strip, 2x19, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x19 2.54mm double row
-0
-38
-38
-Connector_PinSocket_2.54mm
-PinSocket_2x19_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x19, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x19 2.54mm double row
-0
-38
-38
-Connector_PinSocket_2.54mm
-PinSocket_2x20_P2.54mm_Horizontal
-Through hole angled socket strip, 2x20, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x20 2.54mm double row
-0
-40
-40
-Connector_PinSocket_2.54mm
-PinSocket_2x20_P2.54mm_Vertical
-Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x20 2.54mm double row
-0
-40
-40
-Connector_PinSocket_2.54mm
-PinSocket_2x20_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x20 2.54mm double row
-0
-40
-40
-Connector_PinSocket_2.54mm
-PinSocket_2x21_P2.54mm_Horizontal
-Through hole angled socket strip, 2x21, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x21 2.54mm double row
-0
-42
-42
-Connector_PinSocket_2.54mm
-PinSocket_2x21_P2.54mm_Vertical
-Through hole straight socket strip, 2x21, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x21 2.54mm double row
-0
-42
-42
-Connector_PinSocket_2.54mm
-PinSocket_2x21_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x21, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x21 2.54mm double row
-0
-42
-42
-Connector_PinSocket_2.54mm
-PinSocket_2x22_P2.54mm_Horizontal
-Through hole angled socket strip, 2x22, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x22 2.54mm double row
-0
-44
-44
-Connector_PinSocket_2.54mm
-PinSocket_2x22_P2.54mm_Vertical
-Through hole straight socket strip, 2x22, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x22 2.54mm double row
-0
-44
-44
-Connector_PinSocket_2.54mm
-PinSocket_2x22_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x22, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x22 2.54mm double row
-0
-44
-44
-Connector_PinSocket_2.54mm
-PinSocket_2x23_P2.54mm_Horizontal
-Through hole angled socket strip, 2x23, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x23 2.54mm double row
-0
-46
-46
-Connector_PinSocket_2.54mm
-PinSocket_2x23_P2.54mm_Vertical
-Through hole straight socket strip, 2x23, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x23 2.54mm double row
-0
-46
-46
-Connector_PinSocket_2.54mm
-PinSocket_2x23_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x23, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x23 2.54mm double row
-0
-46
-46
-Connector_PinSocket_2.54mm
-PinSocket_2x24_P2.54mm_Horizontal
-Through hole angled socket strip, 2x24, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x24 2.54mm double row
-0
-48
-48
-Connector_PinSocket_2.54mm
-PinSocket_2x24_P2.54mm_Vertical
-Through hole straight socket strip, 2x24, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x24 2.54mm double row
-0
-48
-48
-Connector_PinSocket_2.54mm
-PinSocket_2x24_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x24, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x24 2.54mm double row
-0
-48
-48
-Connector_PinSocket_2.54mm
-PinSocket_2x25_P2.54mm_Horizontal
-Through hole angled socket strip, 2x25, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x25 2.54mm double row
-0
-50
-50
-Connector_PinSocket_2.54mm
-PinSocket_2x25_P2.54mm_Vertical
-Through hole straight socket strip, 2x25, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x25 2.54mm double row
-0
-50
-50
-Connector_PinSocket_2.54mm
-PinSocket_2x25_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x25, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x25 2.54mm double row
-0
-50
-50
-Connector_PinSocket_2.54mm
-PinSocket_2x26_P2.54mm_Horizontal
-Through hole angled socket strip, 2x26, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x26 2.54mm double row
-0
-52
-52
-Connector_PinSocket_2.54mm
-PinSocket_2x26_P2.54mm_Vertical
-Through hole straight socket strip, 2x26, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x26 2.54mm double row
-0
-52
-52
-Connector_PinSocket_2.54mm
-PinSocket_2x26_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x26, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x26 2.54mm double row
-0
-52
-52
-Connector_PinSocket_2.54mm
-PinSocket_2x27_P2.54mm_Horizontal
-Through hole angled socket strip, 2x27, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x27 2.54mm double row
-0
-54
-54
-Connector_PinSocket_2.54mm
-PinSocket_2x27_P2.54mm_Vertical
-Through hole straight socket strip, 2x27, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x27 2.54mm double row
-0
-54
-54
-Connector_PinSocket_2.54mm
-PinSocket_2x27_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x27, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x27 2.54mm double row
-0
-54
-54
-Connector_PinSocket_2.54mm
-PinSocket_2x28_P2.54mm_Horizontal
-Through hole angled socket strip, 2x28, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x28 2.54mm double row
-0
-56
-56
-Connector_PinSocket_2.54mm
-PinSocket_2x28_P2.54mm_Vertical
-Through hole straight socket strip, 2x28, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x28 2.54mm double row
-0
-56
-56
-Connector_PinSocket_2.54mm
-PinSocket_2x28_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x28, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x28 2.54mm double row
-0
-56
-56
-Connector_PinSocket_2.54mm
-PinSocket_2x29_P2.54mm_Horizontal
-Through hole angled socket strip, 2x29, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x29 2.54mm double row
-0
-58
-58
-Connector_PinSocket_2.54mm
-PinSocket_2x29_P2.54mm_Vertical
-Through hole straight socket strip, 2x29, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x29 2.54mm double row
-0
-58
-58
-Connector_PinSocket_2.54mm
-PinSocket_2x29_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x29, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x29 2.54mm double row
-0
-58
-58
-Connector_PinSocket_2.54mm
-PinSocket_2x30_P2.54mm_Horizontal
-Through hole angled socket strip, 2x30, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x30 2.54mm double row
-0
-60
-60
-Connector_PinSocket_2.54mm
-PinSocket_2x30_P2.54mm_Vertical
-Through hole straight socket strip, 2x30, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x30 2.54mm double row
-0
-60
-60
-Connector_PinSocket_2.54mm
-PinSocket_2x30_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x30, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x30 2.54mm double row
-0
-60
-60
-Connector_PinSocket_2.54mm
-PinSocket_2x31_P2.54mm_Horizontal
-Through hole angled socket strip, 2x31, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x31 2.54mm double row
-0
-62
-62
-Connector_PinSocket_2.54mm
-PinSocket_2x31_P2.54mm_Vertical
-Through hole straight socket strip, 2x31, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x31 2.54mm double row
-0
-62
-62
-Connector_PinSocket_2.54mm
-PinSocket_2x31_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x31, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x31 2.54mm double row
-0
-62
-62
-Connector_PinSocket_2.54mm
-PinSocket_2x32_P2.54mm_Horizontal
-Through hole angled socket strip, 2x32, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x32 2.54mm double row
-0
-64
-64
-Connector_PinSocket_2.54mm
-PinSocket_2x32_P2.54mm_Vertical
-Through hole straight socket strip, 2x32, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x32 2.54mm double row
-0
-64
-64
-Connector_PinSocket_2.54mm
-PinSocket_2x32_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x32, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x32 2.54mm double row
-0
-64
-64
-Connector_PinSocket_2.54mm
-PinSocket_2x33_P2.54mm_Horizontal
-Through hole angled socket strip, 2x33, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x33 2.54mm double row
-0
-66
-66
-Connector_PinSocket_2.54mm
-PinSocket_2x33_P2.54mm_Vertical
-Through hole straight socket strip, 2x33, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x33 2.54mm double row
-0
-66
-66
-Connector_PinSocket_2.54mm
-PinSocket_2x33_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x33, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x33 2.54mm double row
-0
-66
-66
-Connector_PinSocket_2.54mm
-PinSocket_2x34_P2.54mm_Horizontal
-Through hole angled socket strip, 2x34, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x34 2.54mm double row
-0
-68
-68
-Connector_PinSocket_2.54mm
-PinSocket_2x34_P2.54mm_Vertical
-Through hole straight socket strip, 2x34, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x34 2.54mm double row
-0
-68
-68
-Connector_PinSocket_2.54mm
-PinSocket_2x34_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x34, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x34 2.54mm double row
-0
-68
-68
-Connector_PinSocket_2.54mm
-PinSocket_2x35_P2.54mm_Horizontal
-Through hole angled socket strip, 2x35, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x35 2.54mm double row
-0
-70
-70
-Connector_PinSocket_2.54mm
-PinSocket_2x35_P2.54mm_Vertical
-Through hole straight socket strip, 2x35, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x35 2.54mm double row
-0
-70
-70
-Connector_PinSocket_2.54mm
-PinSocket_2x35_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x35, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x35 2.54mm double row
-0
-70
-70
-Connector_PinSocket_2.54mm
-PinSocket_2x36_P2.54mm_Horizontal
-Through hole angled socket strip, 2x36, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x36 2.54mm double row
-0
-72
-72
-Connector_PinSocket_2.54mm
-PinSocket_2x36_P2.54mm_Vertical
-Through hole straight socket strip, 2x36, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x36 2.54mm double row
-0
-72
-72
-Connector_PinSocket_2.54mm
-PinSocket_2x36_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x36, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x36 2.54mm double row
-0
-72
-72
-Connector_PinSocket_2.54mm
-PinSocket_2x37_P2.54mm_Horizontal
-Through hole angled socket strip, 2x37, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x37 2.54mm double row
-0
-74
-74
-Connector_PinSocket_2.54mm
-PinSocket_2x37_P2.54mm_Vertical
-Through hole straight socket strip, 2x37, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x37 2.54mm double row
-0
-74
-74
-Connector_PinSocket_2.54mm
-PinSocket_2x37_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x37, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x37 2.54mm double row
-0
-74
-74
-Connector_PinSocket_2.54mm
-PinSocket_2x38_P2.54mm_Horizontal
-Through hole angled socket strip, 2x38, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x38 2.54mm double row
-0
-76
-76
-Connector_PinSocket_2.54mm
-PinSocket_2x38_P2.54mm_Vertical
-Through hole straight socket strip, 2x38, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x38 2.54mm double row
-0
-76
-76
-Connector_PinSocket_2.54mm
-PinSocket_2x38_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x38, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x38 2.54mm double row
-0
-76
-76
-Connector_PinSocket_2.54mm
-PinSocket_2x39_P2.54mm_Horizontal
-Through hole angled socket strip, 2x39, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x39 2.54mm double row
-0
-78
-78
-Connector_PinSocket_2.54mm
-PinSocket_2x39_P2.54mm_Vertical
-Through hole straight socket strip, 2x39, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x39 2.54mm double row
-0
-78
-78
-Connector_PinSocket_2.54mm
-PinSocket_2x39_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x39, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x39 2.54mm double row
-0
-78
-78
-Connector_PinSocket_2.54mm
-PinSocket_2x40_P2.54mm_Horizontal
-Through hole angled socket strip, 2x40, 2.54mm pitch, 8.51mm socket length, double cols (from Kicad 4.0.7), script generated
-Through hole angled socket strip THT 2x40 2.54mm double row
-0
-80
-80
-Connector_PinSocket_2.54mm
-PinSocket_2x40_P2.54mm_Vertical
-Through hole straight socket strip, 2x40, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Through hole socket strip THT 2x40 2.54mm double row
-0
-80
-80
-Connector_PinSocket_2.54mm
-PinSocket_2x40_P2.54mm_Vertical_SMD
-surface-mounted straight socket strip, 2x40, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
-Surface mounted socket strip SMD 2x40 2.54mm double row
-0
-80
-80
+Package_TO_SOT_THT
+TO-126-2_Horizontal_TabDown
+TO-126-2, Horizontal, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-2 Horizontal RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-126-2_Horizontal_TabUp
+TO-126-2, Horizontal, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-2 Horizontal RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-126-2_Vertical
+TO-126-2, Vertical, RM 5.08mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-2 Vertical RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-126-3_Horizontal_TabDown
+TO-126-3, Horizontal, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Horizontal RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-126-3_Horizontal_TabUp
+TO-126-3, Horizontal, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Horizontal RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-126-3_Vertical
+TO-126-3, Vertical, RM 2.54mm, see https://www.diodes.com/assets/Package-Files/TO126.pdf
+TO-126-3 Vertical RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-218-2_Horizontal_TabDown
+TO-218-2, Horizontal, RM 10.95mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
+TO-218-2 Horizontal RM 10.95mm SOT-93
+0
+2
+2
+Package_TO_SOT_THT
+TO-218-2_Horizontal_TabUp
+TO-218-2, Horizontal, RM 10.95mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
+TO-218-2 Horizontal RM 10.95mm SOT-93
+0
+2
+2
+Package_TO_SOT_THT
+TO-218-2_Vertical
+TO-218-2, Vertical, RM 10.95mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
+TO-218-2 Vertical RM 10.95mm SOT-93
+0
+2
+2
+Package_TO_SOT_THT
+TO-218-3_Horizontal_TabDown
+TO-218-3, Horizontal, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
+TO-218-3 Horizontal RM 5.475mm SOT-93
+0
+3
+3
+Package_TO_SOT_THT
+TO-218-3_Horizontal_TabUp
+TO-218-3, Horizontal, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
+TO-218-3 Horizontal RM 5.475mm SOT-93
+0
+3
+3
+Package_TO_SOT_THT
+TO-218-3_Vertical
+TO-218-3, Vertical, RM 5.475mm, SOT-93, see https://www.vishay.com/docs/95214/fto218.pdf
+TO-218-3 Vertical RM 5.475mm SOT-93
+0
+3
+3
+Package_TO_SOT_THT
+TO-220-2_Horizontal_TabDown
+TO-220-2, Horizontal, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
+TO-220-2 Horizontal RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-220-2_Horizontal_TabUp
+TO-220-2, Horizontal, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
+TO-220-2 Horizontal RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-220-2_Vertical
+TO-220-2, Vertical, RM 5.08mm, see https://www.centralsemi.com/PDFS/CASE/TO-220-2PD.PDF
+TO-220-2 Vertical RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-220-3_Horizontal_TabDown
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-220-3_Horizontal_TabUp
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-220-3_Vertical
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-220-4_Horizontal_TabDown
+TO-220-4, Horizontal, RM 2.54mm
+TO-220-4 Horizontal RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-220-4_Horizontal_TabUp
+TO-220-4, Horizontal, RM 2.54mm
+TO-220-4 Horizontal RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-220-4_P5.08x2.54mm_StaggerEven_Lead3.8mm_Vertical
+TO-220-4, Vertical, RM 2.54mm, staggered type-2
+TO-220-4 Vertical RM 2.54mm staggered type-2
+0
+4
+4
+Package_TO_SOT_THT
+TO-220-4_P5.08x2.54mm_StaggerEven_Lead5.84mm_TabDown
+TO-220-4, Horizontal, RM 2.54mm, staggered type-2
+TO-220-4 Horizontal RM 2.54mm staggered type-2
+0
+4
+4
+Package_TO_SOT_THT
+TO-220-4_P5.08x2.54mm_StaggerOdd_Lead3.8mm_Vertical
+TO-220-4, Vertical, RM 2.54mm, staggered type-1
+TO-220-4 Vertical RM 2.54mm staggered type-1
+0
+4
+4
+Package_TO_SOT_THT
+TO-220-4_P5.08x2.54mm_StaggerOdd_Lead5.84mm_TabDown
+TO-220-4, Horizontal, RM 2.54mm, staggered type-1
+TO-220-4 Horizontal RM 2.54mm staggered type-1
+0
+4
+4
+Package_TO_SOT_THT
+TO-220-4_Vertical
+TO-220-4, Vertical, RM 2.54mm
+TO-220-4 Vertical RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-220-5_Horizontal_TabDown
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
+Package_TO_SOT_THT
+TO-220-5_Horizontal_TabUp
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
+Package_TO_SOT_THT
+TO-220-5_P3.4x3.7mm_StaggerEven_Lead3.8mm_Vertical
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-2, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-2
+0
+5
+5
+Package_TO_SOT_THT
+TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5 staggered type-1
+0
+5
+5
+Package_TO_SOT_THT
+TO-220-5_P3.4x3.8mm_StaggerEven_Lead7.13mm_TabDown
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-2, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5 staggered type-2
+0
+5
+5
+Package_TO_SOT_THT
+TO-220-5_P3.4x3.8mm_StaggerOdd_Lead7.13mm_TabDown
+TO-220-5, Horizontal, RM 1.7mm, Pentawatt, Multiwatt-5, staggered type-1, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421.pdf?domain=www.linear.com, https://www.diodes.com/assets/Package-Files/TO220-5.pdf
+TO-220-5 Horizontal RM 1.7mm Pentawatt Multiwatt-5 staggered type-1
+0
+5
+5
+Package_TO_SOT_THT
+TO-220-5_Vertical
+TO-220-5, Vertical, RM 1.7mm, Pentawatt, Multiwatt-5, see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-to-220/to-220_5_05-08-1421_straight_lead.pdf
+TO-220-5 Vertical RM 1.7mm Pentawatt Multiwatt-5
+0
+5
+5
+Package_TO_SOT_THT
+TO-220-7_P2.54x3.7mm_StaggerEven_Lead3.8mm_Vertical
+TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-2
+TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-2
+0
+7
+7
+Package_TO_SOT_THT
+TO-220-7_P2.54x3.7mm_StaggerOdd_Lead3.8mm_Vertical
+TO-220-7, Vertical, RM 1.27mm, Multiwatt-7, staggered type-1
+TO-220-7 Vertical RM 1.27mm Multiwatt-7 staggered type-1
+0
+7
+7
+Package_TO_SOT_THT
+TO-220-7_P2.54x3.8mm_StaggerEven_Lead5.85mm_TabDown
+TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-2
+TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-2
+0
+7
+7
+Package_TO_SOT_THT
+TO-220-7_P2.54x3.8mm_StaggerOdd_Lead5.85mm_TabDown
+TO-220-7, Horizontal, RM 1.27mm, Multiwatt-7, staggered type-1
+TO-220-7 Horizontal RM 1.27mm Multiwatt-7 staggered type-1
+0
+7
+7
+Package_TO_SOT_THT
+TO-220-8_Vertical
+TO-220-8 (Multiwatt8), Vertical, 2.54mm Pitch (http://www.st.com/resource/en/datasheet/tda7264.pdf)
+TO-220-9 Vertical 2.54mm Pitch Multiwatt 8
+0
+8
+8
+Package_TO_SOT_THT
+TO-220-9_P1.94x3.7mm_StaggerEven_Lead3.8mm_Vertical
+TO-220-9, Vertical, RM 0.97mm, Multiwatt-9, staggered type-2
+TO-220-9 Vertical RM 0.97mm Multiwatt-9 staggered type-2
+0
+9
+9
+Package_TO_SOT_THT
+TO-220-9_P1.94x3.7mm_StaggerOdd_Lead3.8mm_Vertical
+TO-220-9, Vertical, RM 0.97mm, Multiwatt-9, staggered type-1
+TO-220-9 Vertical RM 0.97mm Multiwatt-9 staggered type-1
+0
+9
+9
+Package_TO_SOT_THT
+TO-220-9_P1.94x3.8mm_StaggerEven_Lead5.85mm_TabDown
+TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-2
+TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-2
+0
+9
+9
+Package_TO_SOT_THT
+TO-220-9_P1.94x3.8mm_StaggerOdd_Lead5.85mm_TabDown
+TO-220-9, Horizontal, RM 0.97mm, Multiwatt-9, staggered type-1
+TO-220-9 Horizontal RM 0.97mm Multiwatt-9 staggered type-1
+0
+9
+9
+Package_TO_SOT_THT
+TO-220-11_P3.4x2.54mm_StaggerEven_Lead5.84mm_TabDown
+TO-220-11, Horizontal, RM 1.7mm, staggered type-2, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
+TO-220-11 Horizontal RM 1.7mm staggered type-2
+0
+11
+11
+Package_TO_SOT_THT
+TO-220-11_P3.4x2.54mm_StaggerOdd_Lead5.84mm_TabDown
+TO-220-11, Horizontal, RM 1.7mm, staggered type-1, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
+TO-220-11 Horizontal RM 1.7mm staggered type-1
+0
+11
+11
+Package_TO_SOT_THT
+TO-220-11_P3.4x5.08mm_StaggerEven_Lead4.58mm_Vertical
+TO-220-11, Vertical, RM 1.7mm, staggered type-2, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
+TO-220-11 Vertical RM 1.7mm staggered type-2
+0
+11
+11
+Package_TO_SOT_THT
+TO-220-11_P3.4x5.08mm_StaggerOdd_Lead4.85mm_Vertical
+TO-220-11, Vertical, RM 1.7mm, staggered type-1, see http://www.st.com/resource/en/datasheet/tda7391lv.pdf
+TO-220-11 Vertical RM 1.7mm staggered type-1
+0
+11
+11
+Package_TO_SOT_THT
+TO-220-11_P3.4x5.08mm_StaggerOdd_Lead8.45mm_TabDown
+TO-220-11, Horizontal, RM 1.7mm, staggered type-1, see http://www.ti.com/lit/ds/symlink/lmd18200.pdf
+TO-220-11 Horizontal RM 1.7mm staggered type-1
+0
+11
+11
+Package_TO_SOT_THT
+TO-220-15_P2.54x2.54mm_StaggerEven_Lead4.58mm_Vertical
+TO-220-15, Vertical, RM 1.27mm, staggered type-2, see http://www.st.com/resource/en/datasheet/l298.pdf
+TO-220-15 Vertical RM 1.27mm staggered type-2
+0
+15
+15
+Package_TO_SOT_THT
+TO-220-15_P2.54x2.54mm_StaggerEven_Lead5.84mm_TabDown
+TO-220-15, Horizontal, RM 1.27mm, staggered type-2, see http://www.st.com/resource/en/datasheet/l298.pdf
+TO-220-15 Horizontal RM 1.27mm staggered type-2
+0
+15
+15
+Package_TO_SOT_THT
+TO-220-15_P2.54x2.54mm_StaggerOdd_Lead4.58mm_Vertical
+TO-220-15, Vertical, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf
+TO-220-15 Vertical RM 1.27mm staggered type-1
+0
+15
+15
+Package_TO_SOT_THT
+TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown
+TO-220-15, Horizontal, RM 1.27mm, staggered type-1, see http://www.st.com/resource/en/datasheet/l298.pdf
+TO-220-15 Horizontal RM 1.27mm staggered type-1
+0
+15
+15
+Package_TO_SOT_THT
+TO-220F-2_Horizontal_TabDown
+TO-220F-2, Horizontal, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf
+TO-220F-2 Horizontal RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-220F-2_Horizontal_TabUp
+TO-220F-2, Horizontal, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf
+TO-220F-2 Horizontal RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-220F-2_Vertical
+TO-220F-2, Vertical, RM 5.08mm, see http://www.onsemi.com/pub/Collateral/FFPF10F150S-D.pdf
+TO-220F-2 Vertical RM 5.08mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-220F-3_Horizontal_TabDown
+TO-220F-3, Horizontal, RM 2.54mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf
+TO-220F-3 Horizontal RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-220F-3_Horizontal_TabUp
+TO-220F-3, Horizontal, RM 2.54mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf
+TO-220F-3 Horizontal RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-220F-3_Vertical
+TO-220F-3, Vertical, RM 2.54mm, see http://www.st.com/resource/en/datasheet/stp20nm60.pdf
+TO-220F-3 Vertical RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-220F-4_Horizontal_TabDown
+TO-220F-4, Horizontal, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
+TO-220F-4 Horizontal RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-220F-4_Horizontal_TabUp
+TO-220F-4, Horizontal, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
+TO-220F-4 Horizontal RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-220F-4_P5.08x2.05mm_StaggerEven_Lead1.85mm_Vertical
+TO-220F-4, Vertical, RM 2.54mm, staggered type-2, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
+TO-220F-4 Vertical RM 2.54mm staggered type-2
+0
+4
+4
+Package_TO_SOT_THT
+TO-220F-4_P5.08x2.05mm_StaggerOdd_Lead1.85mm_Vertical
+TO-220F-4, Vertical, RM 2.54mm, staggered type-1, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
+TO-220F-4 Vertical RM 2.54mm staggered type-1
+0
+4
+4
+Package_TO_SOT_THT
+TO-220F-4_P5.08x3.7mm_StaggerEven_Lead3.5mm_Vertical
+TO-220F-4, Vertical, RM 2.54mm, staggered type-2, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
+TO-220F-4 Vertical RM 2.54mm staggered type-2
+0
+4
+4
+Package_TO_SOT_THT
+TO-220F-4_P5.08x3.7mm_StaggerOdd_Lead3.5mm_Vertical
+TO-220F-4, Vertical, RM 2.54mm, staggered type-1, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
+TO-220F-4 Vertical RM 2.54mm staggered type-1
+0
+4
+4
+Package_TO_SOT_THT
+TO-220F-4_Vertical
+TO-220F-4, Vertical, RM 2.54mm, see https://www.njr.com/semicon/PDF/package/TO-220F-4_E.pdf
+TO-220F-4 Vertical RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-220F-5_Horizontal_TabDown
+TO-220F-5, Horizontal, RM 1.7mm, PentawattF-, MultiwattF-5
+TO-220F-5 Horizontal RM 1.7mm PentawattF- MultiwattF-5
+0
+5
+5
+Package_TO_SOT_THT
+TO-220F-5_Horizontal_TabUp
+TO-220F-5, Horizontal, RM 1.7mm, PentawattF-, MultiwattF-5
+TO-220F-5 Horizontal RM 1.7mm PentawattF- MultiwattF-5
+0
+5
+5
+Package_TO_SOT_THT
+TO-220F-5_P3.4x2.06mm_StaggerEven_Lead1.86mm_Vertical
+TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-2
+TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-2
+0
+5
+5
+Package_TO_SOT_THT
+TO-220F-5_P3.4x2.06mm_StaggerOdd_Lead1.86mm_Vertical
+TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-1
+TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-1
+0
+5
+5
+Package_TO_SOT_THT
+TO-220F-5_P3.4x3.7mm_StaggerEven_Lead3.5mm_Vertical
+TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-2
+TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-2
+0
+5
+5
+Package_TO_SOT_THT
+TO-220F-5_P3.4x3.7mm_StaggerOdd_Lead3.5mm_Vertical
+TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5, staggered type-1
+TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5 staggered type-1
+0
+5
+5
+Package_TO_SOT_THT
+TO-220F-5_Vertical
+TO-220F-5, Vertical, RM 1.7mm, PentawattF-, MultiwattF-5
+TO-220F-5 Vertical RM 1.7mm PentawattF- MultiwattF-5
+0
+5
+5
+Package_TO_SOT_THT
+TO-220F-7_P2.54x3.7mm_StaggerEven_Lead3.5mm_Vertical
+TO-220F-7, Vertical, RM 1.27mm, staggered type-2
+TO-220F-7 Vertical RM 1.27mm staggered type-2
+0
+7
+7
+Package_TO_SOT_THT
+TO-220F-7_P2.54x3.7mm_StaggerOdd_Lead3.5mm_Vertical
+TO-220F-7, Vertical, RM 1.27mm, staggered type-1
+TO-220F-7 Vertical RM 1.27mm staggered type-1
+0
+7
+7
+Package_TO_SOT_THT
+TO-220F-9_P1.8x3.7mm_StaggerEven_Lead3.5mm_Vertical
+TO-220F-9, Vertical, RM 0.9mm, staggered type-2
+TO-220F-9 Vertical RM 0.9mm staggered type-2
+0
+9
+9
+Package_TO_SOT_THT
+TO-220F-9_P1.8x3.7mm_StaggerOdd_Lead3.5mm_Vertical
+TO-220F-9, Vertical, RM 0.9mm, staggered type-1
+TO-220F-9 Vertical RM 0.9mm staggered type-1
+0
+9
+9
+Package_TO_SOT_THT
+TO-220F-11_P3.4x5.08mm_StaggerEven_Lead5.08mm_Vertical
+TO-220F-11, Vertical, RM 1.7mm, MultiwattF-11, staggered type-2, see http://www.ti.com/lit/ds/symlink/lm3886.pdf
+TO-220F-11 Vertical RM 1.7mm MultiwattF-11 staggered type-2
+0
+11
+11
+Package_TO_SOT_THT
+TO-220F-11_P3.4x5.08mm_StaggerOdd_Lead5.08mm_Vertical
+TO-220F-11, Vertical, RM 1.7mm, MultiwattF-11, staggered type-1, see http://www.ti.com/lit/ds/symlink/lm3886.pdf
+TO-220F-11 Vertical RM 1.7mm MultiwattF-11 staggered type-1
+0
+11
+11
+Package_TO_SOT_THT
+TO-220F-15_P2.54x5.08mm_StaggerEven_Lead5.08mm_Vertical
+TO-220F-15, Vertical, RM 1.27mm, MultiwattF-15, staggered type-2
+TO-220F-15 Vertical RM 1.27mm MultiwattF-15 staggered type-2
+0
+15
+15
+Package_TO_SOT_THT
+TO-220F-15_P2.54x5.08mm_StaggerOdd_Lead5.08mm_Vertical
+TO-220F-15, Vertical, RM 1.27mm, MultiwattF-15, staggered type-1
+TO-220F-15 Vertical RM 1.27mm MultiwattF-15 staggered type-1
+0
+15
+15
+Package_TO_SOT_THT
+TO-247-2_Horizontal_TabDown
+TO-247-2, Horizontal, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-2 Horizontal RM 10.9mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-247-2_Horizontal_TabUp
+TO-247-2, Horizontal, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-2 Horizontal RM 10.9mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-247-2_Vertical
+TO-247-2, Vertical, RM 10.9mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-2 Vertical RM 10.9mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-247-3_Horizontal_TabDown
+TO-247-3, Horizontal, RM 5.45mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-3 Horizontal RM 5.45mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-247-3_Horizontal_TabUp
+TO-247-3, Horizontal, RM 5.45mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-3 Horizontal RM 5.45mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-247-3_Vertical
+TO-247-3, Vertical, RM 5.45mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-3 Vertical RM 5.45mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-247-4_Horizontal_TabDown
+TO-247-4, Horizontal, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-4 Horizontal RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-247-4_Horizontal_TabUp
+TO-247-4, Horizontal, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-4 Horizontal RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-247-4_Vertical
+TO-247-4, Vertical, RM 2.54mm, see https://toshiba.semicon-storage.com/us/product/mosfet/to-247-4l.html
+TO-247-4 Vertical RM 2.54mm
+0
+4
+4
+Package_TO_SOT_THT
+TO-247-5_Horizontal_TabDown
+TO-247-5, Horizontal, RM 2.54mm, see http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf
+TO-247-5 Horizontal RM 2.54mm
+0
+5
+5
+Package_TO_SOT_THT
+TO-247-5_Horizontal_TabUp
+TO-247-5, Horizontal, RM 2.54mm, see http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf
+TO-247-5 Horizontal RM 2.54mm
+0
+5
+5
+Package_TO_SOT_THT
+TO-247-5_Vertical
+TO-247-5, Vertical, RM 2.54mm, see http://ww1.microchip.com/downloads/en/DeviceDoc/20005685A.pdf
+TO-247-5 Vertical RM 2.54mm
+0
+5
+5
+Package_TO_SOT_THT
+TO-251-2-1EP_Horizontal_TabDown
+TO-251-2, Horizontal, RM 4.58mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
+TO-251-2 Horizontal RM 4.58mm IPAK
+0
+3
+3
+Package_TO_SOT_THT
+TO-251-2_Vertical
+TO-251-2, Vertical, RM 4.58mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
+TO-251-2 Vertical RM 4.58mm IPAK
+0
+2
+2
+Package_TO_SOT_THT
+TO-251-3-1EP_Horizontal_TabDown
+TO-251-3, Horizontal, RM 2.29mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
+TO-251-3 Horizontal RM 2.29mm IPAK
+0
+4
+4
+Package_TO_SOT_THT
+TO-251-3_Vertical
+TO-251-3, Vertical, RM 2.29mm, IPAK, see https://www.diodes.com/assets/Package-Files/TO251.pdf
+TO-251-3 Vertical RM 2.29mm IPAK
+0
+3
+3
+Package_TO_SOT_THT
+TO-262-3-1EP_Horizontal_TabDown
+TO-262-3, Horizontal, RM 2.54mm, IIPAK, I2PAK, see http://www.onsemi.com/pub/Collateral/EN8586-D.PDF
+TO-262-3 Horizontal RM 2.54mm IIPAK I2PAK
+0
+4
+4
+Package_TO_SOT_THT
+TO-262-3_Vertical
+TO-262-3, Vertical, RM 2.54mm, IIPAK, I2PAK, see http://www.onsemi.com/pub/Collateral/EN8586-D.PDF
+TO-262-3 Vertical RM 2.54mm IIPAK I2PAK
+0
+3
+3
+Package_TO_SOT_THT
+TO-262-5-1EP_Horizontal_TabDown
+TO-262-5, Horizontal, RM 1.7mm, IIPAK, I2PAK, see http://pdf.datasheetcatalog.com/datasheet/irf/iris4011.pdf
+TO-262-5 Horizontal RM 1.7mm IIPAK I2PAK
+0
+6
+6
+Package_TO_SOT_THT
+TO-262-5_Vertical
+TO-262-5, Vertical, RM 1.7mm, IIPAK, I2PAK, see http://pdf.datasheetcatalog.com/datasheet/irf/iris4011.pdf
+TO-262-5 Vertical RM 1.7mm IIPAK I2PAK
+0
+5
+5
+Package_TO_SOT_THT
+TO-264-2_Horizontal_TabDown
+TO-264-2, Horizontal, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-2 Horizontal RM 10.9mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-264-2_Horizontal_TabUp
+TO-264-2, Horizontal, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-2 Horizontal RM 10.9mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-264-2_Vertical
+TO-264-2, Vertical, RM 10.9mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-2 Vertical RM 10.9mm
+0
+2
+2
+Package_TO_SOT_THT
+TO-264-3_Horizontal_TabDown
+TO-264-3, Horizontal, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-3 Horizontal RM 5.45mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-264-3_Horizontal_TabUp
+TO-264-3, Horizontal, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-3 Horizontal RM 5.45mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-264-3_Vertical
+TO-264-3, Vertical, RM 5.45mm, see https://www.fairchildsemi.com/package-drawings/TO/TO264A03.pdf
+TO-264-3 Vertical RM 5.45mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-264-5_Horizontal_TabDown
+TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF
+TO-264-5 Horizontal RM 3.81mm
+0
+5
+5
+Package_TO_SOT_THT
+TO-264-5_Horizontal_TabUp
+TO-264-5, Horizontal, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF
+TO-264-5 Horizontal RM 3.81mm
+0
+5
+5
+Package_TO_SOT_THT
+TO-264-5_Vertical
+TO-264-5, Vertical, RM 3.81mm, see https://www.onsemi.com/pub/Collateral/NJL3281D-D.PDF
+TO-264-5 Vertical RM 3.81mm
+0
+5
+5
