@@ -1,35 +1,45 @@
-; mode: 1-> CGA 0->EGA
+; mode: 1-> CGA/MDA/HERC 0->EGA
 ; bfix: 1-> brown 0-> no brown (dark yellow)
+; vspol: 1 -> positive vsync (MDA/HERCULES/Hi-res EGA) 0 -> negative vsync (CGA/Lo-res EGA)
+; blue_I: this is also the "video" signal for MDA/HERC
 chip CONVERTER GAL20V8
 
 green_I=1 red_I=2 blue_I=3 red=4 hsync=5 green=6 vsync=7 blue=8 mode=9 bfix=10 vspol=11 GND=12 
-ncsync=15 csync=16 Ored_I=17 Ored=18 Ogreen_I=19 Ogreen=20 Oblue_I=21 Oblue=22 VCC=24
+in13=13 in14=14 ncsync=15 csync=16 Ored_I=17 Ored=18 Ogreen_I=19 Ogreen=20 Oblue_I=21 Oblue=22 in23=23 VCC=24
 
 equations
 
-Oblue = blue
+;
+;
+
+Oblue = blue * /mode +
+        blue * /vspol * mode +
+        blue_I * vspol * mode
 Oblue.oe = VCC
 
 ; Intensity for blue depends if we are
-; in CGA or EGA mode (CGA mode uses the green intensity for all colours)
-Oblue_I = /mode * blue_I + 
-	      mode * green_I
+; in CGA/MDA/HERC or EGA mode (CGA/MDA/HERC mode uses the green intensity for all colours)
+Oblue_I = blue_I * /mode + 
+	      green_I * mode
 Oblue_I.oe = VCC
 
 ; The brown fix is applied in CGA mode, when R and G are high, B is low and the INTENSITY is low.
 ; The Green component gets lowered artificially (effectively swapped with the intensity).
-Ogreen = green * /bfix +
-         green * blue +
-         green * /red +
-         green * green_I +
-         green * /mode
+Ogreen = green * /mode +
+         blue_I * vspol * mode +
+         green * /bfix * mode * /vspol +
+         green * blue * mode * /vspol +
+         green * /red * mode * /vspol +
+         green * green_I * mode * /vspol
 Ogreen.oe = VCC
 
-Ogreen_I = mode * /blue * green * red * bfix + 
+Ogreen_I = mode * /blue * green * red * bfix * /vspol + 
 	       green_I
 Ogreen_I.oe = VCC
 
-Ored = red
+Ored = red * /mode +
+       red * /vspol * mode +
+       blue_I * vspol * mode
 Ored.oe = VCC
 
 Ored_I = /mode * red_I + 
