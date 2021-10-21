@@ -1170,19 +1170,6 @@ F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:VCC #PWR?
-U 1 1 617B6580
-P 1450 2900
-F 0 "#PWR?" H 1450 2750 50  0001 C CNN
-F 1 "VCC" H 1465 3073 50  0000 C CNN
-F 2 "" H 1450 2900 50  0001 C CNN
-F 3 "" H 1450 2900 50  0001 C CNN
-	1    1450 2900
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	1450 2900 1450 3050
-$Comp
 L Device:R_Small R12
 U 1 1 6146A692
 P 2350 4200
@@ -1295,11 +1282,6 @@ Wire Wire Line
 Wire Wire Line
 	800  3650 650  3650
 Wire Wire Line
-	650  3650 650  3750
-Wire Wire Line
-	650  4900 2600 4900
-Connection ~ 2600 4900
-Wire Wire Line
 	800  3750 650  3750
 Connection ~ 650  3750
 Wire Wire Line
@@ -1316,7 +1298,37 @@ Wire Wire Line
 	650  3950 650  4050
 Wire Wire Line
 	800  4050 650  4050
-Connection ~ 650  4050
+$Comp
+L power:GND #PWR?
+U 1 1 61A29945
+P 1200 3150
+F 0 "#PWR?" H 1200 2900 50  0001 C CNN
+F 1 "GND" H 1205 2977 50  0000 C CNN
+F 2 "" H 1200 3150 50  0001 C CNN
+F 3 "" H 1200 3150 50  0001 C CNN
+	1    1200 3150
+	1    0    0    -1  
+$EndComp
 Wire Wire Line
-	650  4050 650  4900
+	1200 3000 1450 3000
+Wire Wire Line
+	1450 3000 1450 3050
+Wire Wire Line
+	1200 3000 1200 3150
+$Comp
+L power:VCC #PWR?
+U 1 1 61A5CF7E
+P 650 3200
+F 0 "#PWR?" H 650 3050 50  0001 C CNN
+F 1 "VCC" H 665 3373 50  0000 C CNN
+F 2 "" H 650 3200 50  0001 C CNN
+F 3 "" H 650 3200 50  0001 C CNN
+	1    650  3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	650  3200 650  3650
+Connection ~ 650  3650
+Wire Wire Line
+	650  3650 650  3750
 $EndSCHEMATC
