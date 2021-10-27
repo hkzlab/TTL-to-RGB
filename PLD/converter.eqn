@@ -1,54 +1,67 @@
-; mode: 1-> CGA/MDA/HERC 0->EGA
-; bfix: 1-> brown 0-> no brown (dark yellow)
+; mode: 1-> autodetection 0-> Forced EGA 
 ; vspol: 1 -> positive vsync (MDA/HERCULES/Hi-res EGA) 0 -> negative vsync (CGA/Lo-res EGA)
+; detmode: 1 -> CGA/MDA mode 0 -> CGA/EGA mode
+; bfix: 1-> brown 0-> no brown (dark yellow)
 ; blue_I: this is also the "video" signal for MDA/HERC
+
 chip CONVERTER GAL20V8
 
 green_I=1 red_I=2 blue_I=3 red=4 hsync=5 green=6 vsync=7 blue=8 mode=9 bfix=10 vspol=11 GND=12 
-in13=13 in14=14 ncsync=15 csync=16 Ored_I=17 Ored=18 Ogreen_I=19 Ogreen=20 Oblue_I=21 Oblue=22 in23=23 VCC=24
+detmode=13 in14=14 ncsync=15 csync=16 Ored_I=17 Ored=18 Ogreen_I=19 Ogreen=20 Oblue_I=21 Oblue=22 in23=23 VCC=24
 
 equations
 
-;
-;
+; BLUE changes only if we're in MDA/HERC mode, where the output gets taken from blue_I (MDA video),
+; otherwise the channel is piloted by the input blue line.
+Oblue = blue_I * vspol * detmode * mode + ; CGA/MDA mode and MDA detected (positive vsync)
+        blue * /mode +                    ; Forced EGA
+        blue * mode * vspol * /detmode +  ; CGA/EGA mode, hi-res EGA detected (positive vsync)
+        blue * mode * /vspol              ; CGA/EGA or CGA/MDA mode, detected CGA (negative sync)
 
-Oblue = blue * /mode +
-        blue * /vspol * mode +
-        blue_I * vspol * mode
 Oblue.oe = VCC
 
-; Intensity for blue depends if we are
-; in CGA/MDA/HERC or EGA mode (CGA/MDA/HERC mode uses the green intensity for all colours)
-Oblue_I = blue_I * /mode + 
-	      green_I * mode
+
+; CGA/MDA/HERC mode use the green intensity for this line,
+; only forced or detected EGA mode uses the blue intensity line to pilot it
+Oblue_I = blue_I * /mode +                     ; Forced EGA
+          blue_I * mode * vspol * /detmode +   ; CGA/EGA mode, detected hi-res EGA (positive vsync)
+	      green_I * mode * /vspol +            ; CGA/EGA or CGA/MDA mode, detected CGA (negative vsync)
+	      green_I * mode * vspol * detmode     ; CGA/MDA mode, detected MDA (positive vsync)
+	      
 Oblue_I.oe = VCC
 
-; The brown fix is applied in CGA mode, when R and G are high, B is low and the INTENSITY is low.
+; The brown fix is applied in CGA mode only, when R and G are high, B is low and the INTENSITY is low.
 ; The Green component gets lowered artificially (effectively swapped with the intensity).
-Ogreen = green * /mode +
-         blue_I * vspol * mode +
-         green * /bfix * mode * /vspol +
-         green * blue * mode * /vspol +
-         green * /red * mode * /vspol +
-         green * green_I * mode * /vspol
+Ogreen = green * /mode +                      ; Forced EGA
+         green * mode * /detmode * vspol +    ; CGA/EGA mode, hi-res EGA detected (positive sync)
+         blue_I * vspol * mode * detmode +    ; CGA/MDA mode, detected MDA (positive vsync)
+         green * /bfix * mode * /vspol +      ; CGA/MDA or CGA/EGA mode, detected CGA (negative sync), brown-fix disabled
+         green * blue * mode * /vspol +       ; CGA/MDA or CGA/EGA mode, detected CGA (negative sync), brown-fix not applicable (blue high)
+         green * /red * mode * /vspol +       ; CGA/MDA or CGA/EGA mode, detected CGA (negative sync), brown-fix not applicable (red low)
+         green * green_I * mode * /vspol      ; CGA/MDA or CGA/EGA mode, detected CGA (negative sync), brown-fix applied (red high, green high, blue low)
 Ogreen.oe = VCC
 
-Ogreen_I = mode * /blue * green * red * bfix * /vspol + 
-	       green_I
+; This output is modified only when brown fix is applied
+Ogreen_I = mode * /blue * green * red * bfix * /vspol + ; CGA/MDA or CGA/EGA mode, detected CGA (negative sync), brown-fix enabled and applied
+	       green_I                                      ; all other cases
 Ogreen_I.oe = VCC
 
-Ored = red * /mode +
-       red * /vspol * mode +
-       blue_I * vspol * mode
+Ored = red * /mode +                     ; Forced EGA  
+       red * /vspol * mode +             ; CGA/MDA or CGA/EGA mode, detected CGA (negative sync)
+       blue_I * vspol * mode * detmode + ; CGA/MDA mode and MDA detected (positive vsync)
+       red * vspol * mode * /detmode     ; CGA/EGA mode and hi-res EGA detected (positive vsync)
 Ored.oe = VCC
 
-Ored_I = /mode * red_I + 
-         mode * green_I
+Ored_I = /mode * red_I +                   ; Forced EGA
+         mode * red_I * /detmode * vspol + ; CGA/EGA mode and hi-res EGA detected (positive sync)
+         mode * green_I * /vspol +         ; CGA/MDA or CGA/EGA mode, CGA detected (negative sync)
+         mode * green_I * vspol * vspol    ; CGA/MDA, MDA detected (positive sync)
 Ored_I.oe = VCC
 
-csync = /vspol * /vsync * hsync +
+; Handling composite sync and inversion in case of vsync polarity
+csync = /vspol * /vsync * hsync + ; Negative vsync polarity, csync = vsync XOR hsync
         /vspol * vsync * /hsync +
-        vspol * /vsync * /hsync +
+        vspol * /vsync * /hsync + ; Positive vsync polarity, csync = !vsync XOR hsync
         vspol * vsync * hsync
 csync.OE = VCC
 
