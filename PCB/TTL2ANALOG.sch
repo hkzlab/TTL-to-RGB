@@ -1130,17 +1130,6 @@ Wire Wire Line
 	2100 4200 2250 4200
 Wire Wire Line
 	2100 3800 3100 3800
-$Comp
-L Device:R_Small R13
-U 1 1 617012E7
-P 10350 4300
-F 0 "R13" V 10400 4400 50  0000 C CNN
-F 1 "0" V 10400 4150 50  0000 C CNN
-F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder" H 10350 4300 50  0001 C CNN
-F 3 "~" H 10350 4300 50  0001 C CNN
-	1    10350 4300
-	0    -1   -1   0   
-$EndComp
 Wire Wire Line
 	10050 4300 10250 4300
 $Comp
@@ -1331,4 +1320,15 @@ Wire Wire Line
 Connection ~ 650  3650
 Wire Wire Line
 	650  3650 650  3750
+$Comp
+L Device:Jumper_NO_Small JP1
+U 1 1 617D121F
+P 10350 4300
+F 0 "JP1" H 10350 4400 50  0000 C CNN
+F 1 "5V on video" H 10350 4200 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 10350 4300 50  0001 C CNN
+F 3 "~" H 10350 4300 50  0001 C CNN
+	1    10350 4300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
