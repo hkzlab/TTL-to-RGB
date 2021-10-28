@@ -55,7 +55,7 @@ Ored.oe = VCC
 Ored_I = /mode * red_I +                   ; Forced EGA
          mode * red_I * /detmode * vspol + ; CGA/EGA mode and hi-res EGA detected (positive sync)
          mode * green_I * /vspol +         ; CGA/MDA or CGA/EGA mode, CGA detected (negative sync)
-         mode * green_I * vspol * vspol    ; CGA/MDA, MDA detected (positive sync)
+         mode * green_I * vspol * detmode  ; CGA/MDA, MDA detected (positive sync)
 Ored_I.oe = VCC
 
 ; Handling composite sync and inversion in case of vsync polarity
