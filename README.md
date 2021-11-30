@@ -48,6 +48,7 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 
 * Pin 13 of the GAL is tied to GND, and is currently used to switch between detection modes (CGA/MDA/HERCULES vs CGA/EGA). It can be fixed by a mod
 * The board does not provide an option for power output on the HD15 connector. This can be fixed by a mod.
+* With a 12v PSU the regulator gets hot. Use a PSU between 7 and 9v. Next revision will use a TO220 reg.
 
 ![Rev. 1.1 Board Mods](pics/rev_1.1_board_mods.jpg)
 
