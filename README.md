@@ -1,10 +1,10 @@
-# TTL-to-ANALOG Converter
+# MDA/CGA/EGA/HERCULES TTL-to-ANALOG Converter
 
 ## Introduction
 
 This board converts CGA/EGA/MDA/Hercules TTL signals into analog RGB signals that can be fed into a compatible monitor.
 
-Depending on jumper settings, it can automatically detect MDA/Hercules, Hi-res EGA and can be forced to low-res 64 colors EGA, and can perform the "brown-fix" for CGA.
+Depending on jumper settings, it can automatically detect MDA/Hercules and Hi-res EGA modes (uses vsync polarity detection), can be forced into low-res 64 colors EGA and can perform the "brown-fix" for CGA.
 
 ![Rev. 1.1 Board](pics/rev_1.1_board.jpg)
 
@@ -35,7 +35,7 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 * [✅] EGA, low-res
 * [✅] EGA, low-res, 64 colors
 * [✅] EGA, hi-res
-* [?] MDA
+* [✅] MDA
 * [?] Hercules
 
 ## Bill of Materials
