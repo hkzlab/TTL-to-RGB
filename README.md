@@ -12,6 +12,16 @@ The board uses a GAL20V8 PLD to implement the conversions, sync polarity detecti
 
 The PLD is sandwiched between two '244 buffers to protect it from shorts and allow the user to experiment with different logic families to better handle the input. It is recommended to use an 'LS244 as the output buffer, an LS or an HCT is fine for the input.
 
+This board does NOT perform any frequency conversion. You will need a monitor capable of syncing to 15, 18 and 21Khz.
+
+### Pics!
+
+Example of an hi-res EGA game
+![Block Out](pics/blockout_ega_hires.jpg)
+
+Example of a low-res EGA game, with palette choosen between the 64 EGA colors (instead of the 16 CGA colors)
+![GODS](pics/gods_ega_lowres_64cols.jpg)
+
 ### Disclaimer
 
 I take NO responsibility for what happens if you decide to build and use this card. Your computer might crash, catch fire or be destroyed in other nasty ways.
@@ -31,7 +41,6 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 ## Bill of Materials
 
 **TODO**
-
 
 ## Known Issues
 
