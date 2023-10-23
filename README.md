@@ -44,10 +44,14 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 
 ## Known Issues
 
+### Rev 1.2
+
+* Optional power is connected to pin 15 of the HD15 connector, which is not ideal, as the best option would be pin 9. This will be fixed in a later revision (1.4)
+
 ### Rev 1.1
 
 * Pin 13 of the GAL is tied to GND, and is currently used to switch between detection modes (CGA/MDA/HERCULES vs CGA/EGA). It can be fixed by a mod
-* The board does not provide an option for power output on the HD15 connector. This can be fixed by a mod.
+* The board does not provide an option for power output on the HD15 connector. This can be fixed by a mod. Note that the mod will connect power to pin 15, which is not ideal (best would be pin 9), but connecting to the proper location requires desoldering the HD15 and cut more traces.
 * With a 12v PSU the regulator gets hot. Use a PSU between 7 and 9v. Next revision will use a TO220 reg.
 
 ![Rev. 1.1 Board Mods](pics/rev_1.1_board_mods.jpg)
