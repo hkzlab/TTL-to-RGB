@@ -711,7 +711,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/rev14",
       "pos_files": "",
       "specctra_dsn": "../../TTL2ANALOG.dsn",
       "step": "",
