@@ -6,7 +6,7 @@ This board converts CGA/EGA/MDA/Hercules TTL signals into analog RGB signals tha
 
 Depending on jumper settings, it can automatically detect MDA/Hercules and Hi-res EGA modes (uses vsync polarity detection), can be forced into low-res 64 colors EGA and can perform the "brown-fix" for CGA.
 
-![Rev. 1.1 Board](pics/rev_1.1_board.jpg)
+![Rev. 1.4 Board](pics/rev_1.4_board.jpg)
 
 The board uses a GAL20V8 PLD to implement the conversions, sync polarity detection, brown-fix, etc.
 
@@ -43,6 +43,10 @@ You're encourauged to take what you deem fit from this, and use it in your proje
 **TODO**
 
 ## Known Issues
+
+### Rev 1.4
+
+While this revision of the board is basically the same circuit of the previous revisions with some reorganization, the board has not been tested yet!
 
 ### Rev 1.2
 
